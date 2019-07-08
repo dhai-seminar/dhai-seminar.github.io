@@ -34,7 +34,7 @@ Next seminar
 Scientific Committee
 ============================
 
-- Me
+- [Me](http://www.google.fr)
 - You
 
 

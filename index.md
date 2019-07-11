@@ -2,7 +2,7 @@
 layout: page
 title: "The DHAI Seminar"
 description: "When Digital Humanities Meet Artificial Intelligence"
-header-img: "img/ens2.png"
+header-img: "img/ens1.png"
 ---
 
 Welcome to the Digital Humanities / Artificial Intelligence Seminar!

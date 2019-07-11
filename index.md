@@ -57,6 +57,7 @@ Supported by
 
 <a href="http://www.enpc.fr/">
 <img height="80" src="http://www.enpc.fr/sites/all/themes/enpc/images/logo.svg"/>
+</a>
 <a href="http://www.ens.fr">
 <img height="80" src="img/logo-ens.jpg"/>
 </a>

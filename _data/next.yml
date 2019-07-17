@@ -1,27 +1,100 @@
 - speaker: "Alexei Efros"
-  date: September 18, 2019
-  time:
-  room:
+  date: September 17, 2019
+  time: 18h-20h
+  room: "Salle des Actes, ENS, 45 rue d'Ulm"
   affiliation:
   url:
   title: ""
   abstract:
 
+- speaker: "to be determined"
+  date: October 7, 2019
+  time: 12h-14h
+  room: "Salle des actes, ENS, 45 rue d’Ulm"
+  affiliation: "?"
+  url: "https://www.ens.fr"
+  title: "To be determined"
+  abstract: "."
 
 - speaker: "Emily L. Spratt"
   date: October 22, 2019
-  time: "?"
-  room: "?"
+  time: 14h-16h
+  room: "Room U205, ENS, 29 rue d'Ulm"
   affiliation: "Postdoctoral Research Scientist and Art Historian. Data Science Institute (in association with the departments of Historic Preservation and Computer Science), Columbia University"
   url: "https://sites.google.com/view/emilylspratt/home"
   title: "The Ontology of Sight in the Age of AI: The Machine Learned Image in Art, Architecture, and Historic Preservation"
   abstract: "This presentation investigates applications of machine learning for knowledge production and the ethical consequences of the creation of new visual systems to systematize information. Unlike applications of the term vision, which conjure vastly different meanings in the arts and the sciences, this paper underscores the use of the term sight to emphasize the contingency of a mode of interpretation in the act of seeing. In this regard the perceptual apparati of humans and machines to behold and interpret an image, and the philosophical implications of these processes as they are understood to function according to different models of seeing, whether they be experiential, simulated, theoretical, or even spiritual are differentiated. This presentation thus brings renewed attention to aesthetic theory and calls for a new philosophical paradigm of visual perception to be employed for the analysis and management of our visual culture and heritage in the age of AI, one which incorporates and actively partakes in the development of computer vision-based technologies."
 
-- speaker: "Some big name"
-  date: Some date here
-  time: 12h30-14h30
-  room: "Salle des actes, 45 rue d’Ulm"
-  affiliation: "ENS"
+- speaker: "to be determined"
+  date: November 4, 2019
+  time: 12h-14h
+  room: "Salle des actes, ENS, 45 rue d’Ulm"
+  affiliation: "?"
   url: "https://www.ens.fr"
-  title: "Some cool title"
-  abstract: "Blabla Blabla Blabla Blabla Blabla Blabla Blabla Blabla Blabla Blabla Blabla Blabla Blabla Blabla Blabla Blabla Blabla Blabla Blabla Blabla Blabla Blabla Blabla Blabla Blabla Blabla Blabla Blabla Blabla Blabla Blabla Blabla Blabla Blabla."
+  title: "To be determined"
+  abstract: "."
+
+- speaker: "to be determined"
+  date: December 2, 2019
+  time: 12h-14h
+  room: "Salle des actes, ENS, 45 rue d’Ulm"
+  affiliation: "?"
+  url: "https://www.ens.fr"
+  title: "To be determined"
+  abstract: "."
+
+- speaker: "to be determined"
+  date: January 6, 2020
+  time: 12h-14h
+  room: "Salle des actes, ENS, 45 rue d’Ulm"
+  affiliation: "?"
+  url: "https://www.ens.fr"
+  title: "To be determined"
+  abstract: "."
+
+- speaker: "to be determined"
+  date: February 3, 2020
+  time: 12h-14h
+  room: "Salle des actes, ENS, 45 rue d’Ulm"
+  affiliation: "?"
+  url: "https://www.ens.fr"
+  title: "To be determined"
+  abstract: "."
+
+- speaker: "Matteo Valleriani"
+  date: March 2, 2020
+  time: 12h-14h
+  room: "Amphithéâtre Galois, ENS, 45 rue d’Ulm"
+  affiliation: "?"
+  url: "https://www.ens.fr"
+  title: "To be determined"
+  abstract: "."
+
+- speaker: "to be determined"
+  date: March 30, 2020
+  time: 12h-14h
+  room: "Salle des actes, ENS, 45 rue d’Ulm"
+  affiliation: "?"
+  url: "https://www.ens.fr"
+  title: "To be determined"
+  abstract: "."
+
+- speaker: "to be determined"
+  date: May 4, 2020
+  time: 12h-14h
+  room: "Salle des actes, ENS, 45 rue d’Ulm"
+  affiliation: "?"
+  url: "https://www.ens.fr"
+  title: "To be determined"
+  abstract: "."
+
+- speaker: "to be determined"
+  date: June 1, 2020
+  time: 12h-14h
+  room: "Salle des actes, ENS, 45 rue d’Ulm"
+  affiliation: "?"
+  url: "https://www.ens.fr"
+  title: "To be determined"
+  abstract: "."
+
+

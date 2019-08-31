@@ -5,7 +5,7 @@
   affiliation: "UC Berkeley"
   url: "https://people.eecs.berkeley.edu/~efros/"
   title: "Finding Visual Patterns in Large Image Collections for Visualization, Analytics, and Artistic Expression"
-  abstract: "Our world is drowning in a data deluge, and much of this data is visual."
+  abstract: "Our world is drowning in a data deluge, and much of this data is visual. Humanity has captured over one trillion photographs last year alone.  500 hours of video is being uploaded to YouTube every minute.   In fact, there is so much visual data out there already that much of it might never be seen by a human being! But unlike other types of \“Big Data\”, such as text, much of the visual content cannot be easily indexed or searched, making it Internet’s \“digital dark matter\” [Perona 2010].  In this talk, I will first discuss some of the unique challenges that make visual data difficult compared to other types of content.   I will them present some of our work on navigating, visualizing, and mining for visual patterns in large-scale image collections.  Example data sources will include user-contributed Flickr photographs, Google StreetView imagery of entire cities, a hundred years of high school student portraits, and  a collection of paintings attributed to Jan Brueghel.    I will also show how recent progress in using deep learning as a way to find visual patterns and correlations could be used to synthesize novel visual content using \"image-to-image translation\" paradigm.  I will conclude with examples of contemporary artists using our work as a new tool for artistic visual expression.  "
   
 - speaker: "to be determined"
   date: October 7, 2019

@@ -1,12 +1,12 @@
 # Usign the Clean Blog theme
 
-title: ENS-CFM Data Science Chair
-author: data-ens
+title: The DHAI Seminar
+author: dhai-seminar
 email: gabriel.peyre@ens.fr
-description: ENS-CFM Data Science Chair
+description: When Digital Humanities Meet Artificial Intelligence
 baseurl: ""
-url: "http://data-ens.github.io/"
-github_username:  data-ens
+url: "https://dhai-seminar.github.io/"
+github_username:  dhai-seminar
 
 # Build settings
 markdown: kramdown
@@ -14,7 +14,7 @@ permalink: pretty
 paginate: 5
 exclude: ["node_modules"]
 
-name: Data Sciences @ ENS
+name: The DHAI Seminar
 gems:
   - jekyll-feed
   - jekyll-paginate

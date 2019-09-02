@@ -2,10 +2,10 @@
 layout: page
 title: "Past"
 description: "Past seminars"
-header-img: "img/ens3.png"
+header-img: "img/ens-fountain.jpg"
 ---
 
-You can find below the list of past seminars. Videos of some of the past seminars [are available online](????).
+You can find below the list of past seminars.
 
 
 

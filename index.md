@@ -60,6 +60,11 @@ Supported by
 <a href="http://www.ens.fr">
 <img height="80" src="img/logo-ens.jpg"/>
 </a>
+<a href="https://prairie-institute.fr/">
+<img height="80" src="img/logo-prairie.png"/>
+</a>
+
+
 
 
 </p>

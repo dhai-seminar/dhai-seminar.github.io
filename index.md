@@ -54,16 +54,13 @@ Supported by
 
 <p align="center">
 
-<a href="http://www.enpc.fr/">
-<img height="80" src="http://www.enpc.fr/sites/all/themes/enpc/images/logo.svg"/>
-</a>
+<a href="http://www.enpc.fr/"><img height="90" src="http://www.enpc.fr/sites/all/themes/enpc/images/logo.svg"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="http://www.ens.fr">
-<img height="80" src="img/logo-ens.jpg"/>
-</a>
-<a href="https://prairie-institute.fr/">
-<img height="80" src="img/logo-prairie.png"/>
-</a>
-
+<img height="80" src="img/logo-ens.jpg"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://prairie-institute.fr">
+<img height="60" src="img/logo-prairie.png"/></a>
 
 
 

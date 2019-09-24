@@ -7,14 +7,21 @@
   url:
   title: "Finding Visual Patterns in Large Photo Collections for Visualization, Analytics, and Artistic Expression"
   abstract: "Our world is drowning in a data deluge, and much of this data is visual.   Humanity has captured over one trillion photographs last year alone.  500 hours of video is being uploaded to YouTube every minute.   In fact, there is so much visual data out there already that much of it might never be seen by a human being! But unlike other types of “Big Data”, such as text, much of the visual content cannot be easily indexed or searched, making it Internet’s “digital dark matter” [Perona 2010].  In this talk, I will first discuss some of the unique challenges that make visual data difficult compared to other types of content.   I will them present some of our work on navigating, visualizing, and mining for visual patterns in large-scale image collections.  Example data sources will include user-contributed Flickr photographs, Google StreetView imagery of entire cities, a hundred years of high school student portraits, and  a collection of paintings attributed to Jan Brueghel.    I will also show how recent progress in using deep learning as a way to find visual patterns and correlations could be used to synthesize novel visual content using "image-to-image translation" paradigm.  I will conclude with examples of contemporary artists using our work as a new tool for artistic visual expression."
-- speaker: "to be determined"
+
+- speaker: "The DHAI organizing members"
   date: October 7, 2019
   time: 12h-14h
   room: "Salle des actes, ENS, 45 rue d’Ulm"
-  affiliation: "?"
+  affiliation: "ENS"
   url: "https://www.ens.fr"
   title: "To be determined"
-  abstract: "."
+  abstract: "Léa Saint-Raymond, Follow the Yellow Brick Road: DH, AI and the Human Behind. 
+
+Béatrice Joyeux-Prunel: From Artlas to Imago, ten years of DH-AI 
+
+Mathieu Aubry: Introduction to Machine and Deep Learning
+
+Jean-Baptiste Camps: Introduction to Natural Language Processing"
 
 - speaker: "Emily L. Spratt"
   date: October 22, 2019
@@ -52,11 +59,11 @@
   title: "To be determined"
   abstract: "."
 
-- speaker: "to be determined"
+- speaker: "Emmanuelle Bermès"
   date: February 3, 2020
   time: 12h-14h
   room: "Salle des actes, ENS, 45 rue d’Ulm"
-  affiliation: "?"
+  affiliation: "BnF"
   url: "https://www.ens.fr"
   title: "To be determined"
   abstract: "."
@@ -88,11 +95,11 @@
   title: "To be determined"
   abstract: "."
 
-- speaker: "to be determined"
+- speaker: "Antonio Casilli"
   date: June 8, 2020
   time: 12h-14h
-  room: "to be determined, ENS, 45 rue d’Ulm"
-  affiliation: "?"
+  room: "Salle des Actes, ENS, 45 rue d’Ulm"
+  affiliation: "Paris School of Telecommunications (Telecom Paris)"
   url: "https://www.ens.fr"
   title: "To be determined"
   abstract: "."

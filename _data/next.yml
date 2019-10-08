@@ -26,13 +26,13 @@
   title: "To be determined"
   abstract: "."
 
-- speaker: "to be determined"
+- speaker: "Mathieu Aubry and Jean-Baptiste Camps"
   date: December 2, 2019
   time: 12h-14h
   room: "Salle des actes, ENS, 45 rue d’Ulm"
-  affiliation: "?"
+  affiliation: "ENPC / ENC"
   url: "https://www.ens.fr"
-  title: "To be determined"
+  title: "Machine learning and text analysis for digital humanities"
   abstract: "."
 
 - speaker: "Alexandre Guilbaud and Stavros Lazaris"

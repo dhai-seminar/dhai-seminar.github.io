@@ -1,13 +1,4 @@
 
-- speaker: "The DHAI organizing members"
-  date: October 7, 2019
-  time: 12h-14h
-  room: "Salle des actes, ENS, 45 rue d’Ulm"
-  affiliation: "ENS"
-  url: "https://www.ens.fr"
-  title: "When Digital Humanities meet Artificial Intelligence, an Introduction"
-  abstract: "Introductory and methodological session on the themes of the seminars"
-
 - speaker: "Emily L. Spratt"
   date: October 22, 2019
   time: 14h-16h
@@ -16,6 +7,8 @@
   url: "https://sites.google.com/view/emilylspratt/home"
   title: "The Ontology of Sight in the Age of AI: The Machine Learned Image in Art, Architecture, and Historic Preservation"
   abstract: "This presentation investigates applications of machine learning for knowledge production and the ethical consequences of the creation of new visual systems to systematize information. Unlike applications of the term vision, which conjure vastly different meanings in the arts and the sciences, this paper underscores the use of the term sight to emphasize the contingency of a mode of interpretation in the act of seeing. In this regard the perceptual apparati of humans and machines to behold and interpret an image, and the philosophical implications of these processes as they are understood to function according to different models of seeing, whether they be experiential, simulated, theoretical, or even spiritual are differentiated. This presentation thus brings renewed attention to aesthetic theory and calls for a new philosophical paradigm of visual perception to be employed for the analysis and management of our visual culture and heritage in the age of AI, one which incorporates and actively partakes in the development of computer vision-based technologies."
+  slides: nothing
+  video: nothing
 
 - speaker: "Thierry Poibeau"
   date: November 5, 2019
@@ -25,6 +18,8 @@
   url: "http://www.lattice.cnrs.fr/membres/direction/thierry-poibeau/"
   title: "To be determined"
   abstract: "."
+  slides: nothing
+  video: nothing
 
 - speaker: "Mathieu Aubry and Jean-Baptiste Camps"
   date: December 2, 2019
@@ -34,6 +29,8 @@
   url: "https://www.ens.fr"
   title: "Machine learning and text analysis for digital humanities"
   abstract: "."
+  slides: nothing
+  video: nothing
 
 - speaker: "Alexandre Guilbaud and Stavros Lazaris"
   date: January 6, 2020
@@ -43,6 +40,8 @@
   url: "https://www.ens.fr"
   title: "To be determined"
   abstract: "."
+  slides: nothing
+  video: nothing
 
 - speaker: "Emmanuelle Bermès"
   date: February 3, 2020
@@ -52,6 +51,8 @@
   url: "http://production-scientifique.bnf.fr/CV/bermes-emmanuelle"
   title: "To be determined"
   abstract: "."
+  slides: nothing
+  video: nothing
 
 - speaker: "Matteo Valleriani"
   date: March 2, 2020
@@ -61,6 +62,8 @@
   url: "https://www.ens.fr"
   title: "To be determined"
   abstract: "."
+  slides: nothing
+  video: nothing
 
 - speaker: "to be determiner"
   date: March 30, 2020
@@ -70,6 +73,8 @@
   url: "https://www.ens.fr"
   title: "To be determined"
   abstract: "."
+  slides: nothing
+  video: nothing
 
 - speaker: "Sietske Fransen & Leonardo Impett"
   date: May 4, 2020
@@ -79,6 +84,8 @@
   url: "https://www.ens.fr"
   title: "To be determined"
   abstract: "."
+  slides: nothing
+  video: nothing
 
 - speaker: "Antonio Casilli"
   date: June 8, 2020
@@ -88,3 +95,5 @@
   url: "https://www.casilli.fr"
   title: "To be determined"
   abstract: "."
+  slides: nothing
+  video: nothing

@@ -16,6 +16,10 @@ You can find below the list of past seminars.
   {% else %}
     [<a href="{{ oneitem.video }}">video</a>]
   {% endif %}
+  {% if oneitem.slides == "nothing" %}
+  {% else %}
+    [<a href="../slides/{{ oneitem.slides }}">Slides</a>]
+  {% endif %}
   <br/>
   <b>Title:</b> <i>{{ oneitem.title }}</i><br/>
   <b>Abstract:</b> {{ oneitem.abstract }}

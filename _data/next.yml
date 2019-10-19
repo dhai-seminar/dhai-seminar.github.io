@@ -1,14 +1,25 @@
 
 - speaker: "Emily L. Spratt"
   date: October 22, 2019
-  time: 14h-16h
+  time: 14h-15h
   room: "Amphithéâtre Galois, ENS, 45 rue d'Ulm"
-  affiliation: "MPI"
+  affiliation: "Columbia"
   url: "https://sites.google.com/view/emilylspratt/home"
   title: "Art, Ethics, and AI: Problems in the Hermeneutics of the Digital Image"
   abstract: "In the last five years, the nature of historical inquiry has undergone a radical transformation as the use of AI-enhanced search engines has become the predominant mode of knowledge investigation, consequentially affecting our engagement with images. In this system, the discovery of responses to our every question is facilitated as the vast stores of digital information that we have come to call the data universe are conjured to deliver answers that are commensurate with our human scale of comprehension, yet often exceed it. In this digital interaction it is often assumed that queries are met with complete and reliable answers, and that data is synonymous with empirical validity, despite the frequently changing structure of this mostly unsupervised repository of digital information, which in actuality projects a distortion of the physical world it represents. In this presentation, the role of vision technology and AI in navigating, analyzing, organizing, and constructing our art and art historical archives of images will be examined as a shaping force on our interpretation of the past and projection of the future. Drawing upon the observations made by Michel Foucault in The Archaeology of Knowledge that the trends toward continuity and discontinuity in descriptions of historical narratives and philosophy, respectively, are reflections of larger hermeneutic structures that in and of themselves influence knowledge formation, the question of the role of image-related data science in our humanistic interpretation of the world will be explored. 
-Through the examples of preservationists and artists using machine learning techniques to curate and create visual information, and in consideration of the information management needs of cultural institutions, the machine-learned image will be posited as a new and radical phenomenon of our society that is altering the nature of historical interpretation itself. By extension, this presentation brings renewed attention to aesthetic theory and calls for a new philosophical paradigm of visual perception to be employed for the analysis and management of our visual culture and heritage in the age of AI, one which incorporates and actively partakes in the development of computer vision-based technologies. 
+| Through the examples of preservationists and artists using machine learning techniques to curate and create visual information, and in consideration of the information management needs of cultural institutions, the machine-learned image will be posited as a new and radical phenomenon of our society that is altering the nature of historical interpretation itself. By extension, this presentation brings renewed attention to aesthetic theory and calls for a new philosophical paradigm of visual perception to be employed for the analysis and management of our visual culture and heritage in the age of AI, one which incorporates and actively partakes in the development of computer vision-based technologies. 
 "
+  slides: nothing
+  video: nothing
+  
+  - speaker: "Emily L. Spratt"
+  date: October 22, 2019
+  time: 15h-16h
+  room: "Amphithéâtre Galois, ENS, 45 rue d'Ulm"
+  affiliation: "Columbia"
+  url: "https://sites.google.com/view/emilylspratt/home"
+  title: "Exhibition Film Screening of “Au-delà du Terroir, Beyond AI Art,” and Discussion with Curator Emily L. Spratt"
+  abstract: " “Au-delà du Terroir, Beyond AI Art” is the art exhibition for the Global Forum on AI for Humanity, which is being hosted by President Macron and is sponsored by the Government of France; it is being held at the at the Institute de France, Quai Conti, Paris, October 28-30, 2019. The forum is a direct outcome of the last G7 meeting regarding the responsible use of AI. This exhibition shapes the visual tenor of the meeting and features the brilliance of some of the leading artists and cultural heritage specialists of our time who are working with AI: Hito Steyerl, Mario Klingemann, Refik Anadol, Robbie Barrat, AICAN (Ahmed Elgammal), ICONEM, and even one project in collaboration with the inimitable Chef Alain Passard. In this limited screening of the exhibition, which takes places in the form of a digital projection, curator Emily L. Spratt will discuss the issues involved with “AI art” and the implications of the creative applications of machine learning for images and videos. A recent Columbia article was published on the exhibition. "
   slides: nothing
   video: nothing
 

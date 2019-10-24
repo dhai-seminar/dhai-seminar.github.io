@@ -1,4 +1,4 @@
-- speaker: "The DHAI organizing members"
+- speaker: "Léa Saint-Raymond / Béatrice Joyeux-Prunel for the DHAI organizing members"
   date: October 7, 2019
   time: 12h-14h
   room: "Salle des actes, ENS, 45 rue d’Ulm"
@@ -33,3 +33,16 @@
 Through the examples of preservationists and artists using machine learning techniques to curate and create visual information, and in consideration of the information management needs of cultural institutions, the machine-learned image will be posited as a new and radical phenomenon of our society that is altering the nature of historical interpretation itself. By extension, this presentation brings renewed attention to aesthetic theory and calls for a new philosophical paradigm of visual perception to be employed for the analysis and management of our visual culture and heritage in the age of AI, one which incorporates and actively partakes in the development of computer vision-based technologies. "
   slides: nothing
   video: nothing
+  
+  
+- speaker: "Emily L. Spratt"
+  date: October 22, 2019
+  time: 15h-16h
+  room: "Amphithéâtre Galois, ENS, 45 rue d'Ulm"
+  affiliation: "Columbia"
+  url: "https://sites.google.com/view/emilylspratt/home"
+  title: "Exhibition Film Screening of \" Au-delà du Terroir, Beyond AI Art,\" and Discussion with Curator Emily L. Spratt"
+  abstract: " \"Au-delà du Terroir, Beyond AI Art\" is the art exhibition for the Global Forum on AI for Humanity, which is being hosted by President Macron and is sponsored by the Government of France; it is being held at the at the Institute de France, Quai Conti, Paris, October 28-30, 2019. The forum is a direct outcome of the last G7 meeting regarding the responsible use of AI. This exhibition shapes the visual tenor of the meeting and features the brilliance of some of the leading artists and cultural heritage specialists of our time who are working with AI: Hito Steyerl, Mario Klingemann, Refik Anadol, Robbie Barrat, AICAN (Ahmed Elgammal), ICONEM, and even one project in collaboration with the inimitable Chef Alain Passard. In this limited screening of the exhibition, which takes places in the form of a digital projection, curator Emily L. Spratt will discuss the issues involved with \"AI art\" and the implications of the creative applications of machine learning for images and videos. A recent Columbia article was <a href='https://datascience.columbia.edu/shaping-art-ai-emily-spratt-curates-art-exhibition-major-international-forum-responsible-use-ai'>published on the exhibition.</a>"
+  slides: nothing
+  video: nothing
+

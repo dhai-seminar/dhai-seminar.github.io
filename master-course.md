@@ -35,7 +35,7 @@ _The theoretical courses will cover:_
 
 _The practical sessions will feature:_
 - Python programming for AI.
-- Tools and database for humanities.
+- Digital Sources and Tools for the Humanities.
 
 _Some examples of project include:_
 - Computer vision and digital heritage.

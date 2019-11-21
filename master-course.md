@@ -13,7 +13,7 @@ This intensive training will cover theoretical, numerical and applicative topics
 Dates and location
 ============================
 
-Dates: March 30th to Appril 3rd 2019.
+Dates: March 30th to April 3rd 2019.
 
 Location: TBA.
 
@@ -28,10 +28,14 @@ Content of the courses
 
 This week of course will be split into three type of courses: theory, practice and project. During the project session, students will gather in small groups to prepare a project around a case study of practical importance. The final of the course will be a short presentation of the projects.
 
-_The theoretical courses will cover:_
-- History of art and AI.
-- Natural language processing for humanities.
-- Computer vision for Humanities.
+_List of the courses:_
+
+- Course 1: [Léa Saint-Raymond](https://u-paris10.academia.edu/LéaSaintRaymond), _Quantitative data analysis and cartography_.
+- Course 2: [Mathieu Aubry](http://imagine.enpc.fr/~aubrym/), _Computer vision for humanities_.
+- Course 3: [Béatrice Joyeux-Prunel](https://artlas.huma-num.fr/en/staff-member/beatrice-joyeux-prunel-2/), _History of art and AI_.
+- Course 4: [Jean-Baptiste Camps](http://www.chartes.psl.eu/fr/jean-baptiste-camps), _NLP for humanities_.
+- Course 5: [Galla Topalian](https://univ-paris1.academia.edu/GallaTopalian) and [Matthieu Husson](https://syrte.obspm.fr/spip/science/histoire/membres-de-l-equipe/article/matthieu-husson), _History of art and AI_.
+
 
 _The practical sessions will feature:_
 - Python programming for AI.
@@ -44,6 +48,13 @@ _Some examples of project include:_
 - Improving the GROBID software for semantic description of semi-structured data.
 - ...
 
+
+Schedule
+============================
+
+<div align="center">
+<img src="../master-data/timing.png" width="600"/>
+</div>
 
 Organizers
 ============================

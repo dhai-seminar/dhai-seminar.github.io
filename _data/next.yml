@@ -19,8 +19,8 @@
   room: "Salle des actes, ENS, 45 rue d’Ulm"
   affiliation: "ENC"
   url: "http://www.chartes.psl.eu/fr/jean-baptiste-camps"
-  title: "TBA"
-  abstract: "."
+  title: "Philology, old texts and machine learning"
+  abstract: "Phrase de présentation: I will give an introduction to machine learning techniques applied to old documents (manuscripts) and texts, ranging from text acquisition (e.g. handwritten text recognition) to computational data analysis (e.g. authorship attribution)."
   slides: nothing
   video: nothing
 

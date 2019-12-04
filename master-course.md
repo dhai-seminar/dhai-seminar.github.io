@@ -23,6 +23,8 @@ Pre-register to the Courses
 
 [You can pre-register here to the course](https://docs.google.com/forms/d/e/1FAIpQLSe8QkORHNLxIvifTBBb_LrGWqQK15VMDtoWteScuGxSjW14nw/viewform?usp=sf_link).
 
+PSL students have priority if they pre-register before January 31st. 
+
 Content of the courses
 ============================
 

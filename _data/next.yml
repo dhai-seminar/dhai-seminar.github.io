@@ -2,20 +2,11 @@
 
 
 
-- speaker: "Mathieu Aubry"
-  date: December 2, 2019
-  time: 12h-13h
-  room: "Salle des actes, ENS, 45 rue d’Ulm"
-  affiliation: "ENPC"
-  url: "http://imagine.enpc.fr/~aubrym/"
-  title: "Machine learning and text analysis for digital humanities"
-  abstract: "I will present key concepts and challenges of Deep Learning approaches and in particular their applications on images for digital humanities. The presentation will use three concrete examples to introduce these concepts and challenges: <a href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3347175'>artwork price prediction</a>, <a href='http://imagine.enpc.fr/~shenx/Watermark/'>historical watermark recognition</a>, and <a href='http://imagine.enpc.fr/~shenx/ArtMiner/'>pattern recognition and discovery in artwork datasets</a>."
-  slides: nothing
-  video: nothing
+
 
 - speaker: "Jean-Baptiste Camps"
-  date: December 2, 2019
-  time: 13h-14h
+  date: January 6, 2020
+  time: 12h-13h
   room: "Salle des actes, ENS, 45 rue d’Ulm"
   affiliation: "ENC"
   url: "http://www.chartes.psl.eu/fr/jean-baptiste-camps"
@@ -27,12 +18,12 @@
 
 - speaker: "Alexandre Guilbaud and Stavros Lazaris"
   date: January 6, 2020
-  time: 12h-14h
+  time: 13h-14h
   room: "Salle des actes, ENS, 45 rue d’Ulm"
   affiliation: "Université Pierre et Marie Curie / CNRS"
   url: "https://www.ens.fr"
-  title: "To be determined"
-  abstract: "."
+  title: "La circulation de l’illustration scientifique au Moyen-Âge et à l’époque moderne"
+  abstract: "Nous vivons entourés d’images. Elles nous portent, nous charment ou nous déçoivent et cela était également le cas, à des degrés différents bien entendu, pour l’homme durant le Moyen Age et l’époque moderne. Comment les images ont-elles façonné sa pensée dans le domaine des sciences et dans quelles mesures en sont-elles représentatives ? Quelle était la nature des illustrations scientifiques et comment les acteurs de ces époques les ont-t-il mises au point et utilisées ? Les périodes médiévale et moderne sont particulièrement propices pour mener une recherche sur la constitution d’une pensée visuelle liée aux savoirs scientifiques. Cet exposé sera l'occasion de présenter un projet de recherche en Humanités numériques visant à contribuer à cette problématique en examinant de quelle façon les développements actuels dans les domaines de l’IA et de la vision artificielle permettent d’envisager des approches nouvelles pour l’analyse historique de la circulation de l’illustration scientifique au cours de ces deux périodes. Nous présenterons à cette occasion les corpus sélectionnés pour cette étude (les manuscrits contenant le Physiologus et le De Materia medica de Dioscoride pour le Moyen Age ; les planches d’histoire naturelle et sciences mathématiques  dans le corpus des dictionnaires et encyclopédies au XVIIIe siècle) et montrerons, sur des exemples, comment les modes de circulation qui sont à l’œuvre dans ces corpus appellent notamment le développement de nouvelles techniques, basées sur la reconnaissance des formes et la mise en relation entre textes et images."
   slides: nothing
   video: nothing
 

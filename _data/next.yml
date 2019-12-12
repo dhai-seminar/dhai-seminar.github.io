@@ -27,14 +27,15 @@
   slides: nothing
   video: nothing
 
-- speaker: "Emmanuelle Bermès"
+- speaker: "Emmanuelle Bermès and Jean-Philippe Moreux"
   date: February 3, 2020
   time: 12h-14h
   room: "Salle des actes, ENS, 45 rue d’Ulm"
   affiliation: "BnF"
   url: "http://production-scientifique.bnf.fr/CV/bermes-emmanuelle"
-  title: "To be determined"
-  abstract: "."
+  title: "From experimentation to community building: AI at the BnF"
+  abstract: "Artificial intelligence has been present at the BnF for more than 10 years, at least in its 'machine learning' version, through R&D projects conducted with the image and document analysis community. But we can imagine that the rise and fall of expert systems at the beginning of the 1990s will also have questioned the BnF, as our American colleagues did: 'Artificial Intelligence and Expert Systems: Will They Change the Library?' (Linda C. Smith, F. W. Lancaster, University of Illinois, 1992).
+  <br/>Today, the democratization of deep learning promotes the ability to experiment and carry out in virtual autonomy, but also and above all makes possible interdisciplinary projects where expertise on content, data and processing is required. This conference will be an opportunity to present the results of such a project, dedicated to the visual indexing of Gallica's iconographic content, to share our feedback and to consider a common dynamic driven by the needs and achievements of the field of digital humanities practice. <br/> The presentation will place these experiments in the BnF's overall strategy for services to the researchers, but will also broaden the scope by addressing the overall positioning of libraries with regard to AI."
   slides: nothing
   video: nothing
 

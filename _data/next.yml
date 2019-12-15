@@ -18,12 +18,23 @@
 
 - speaker: "Alexandre Guilbaud and Stavros Lazaris"
   date: January 6, 2020
-  time: 13h-14h
+  time: 13h-13h30
   room: "Salle des actes, ENS, 45 rue d’Ulm"
   affiliation: "Université Pierre et Marie Curie / CNRS"
   url: "https://www.ens.fr"
   title: "La circulation de l’illustration scientifique au Moyen-Âge et à l’époque moderne"
   abstract: "Nous vivons entourés d’images. Elles nous portent, nous charment ou nous déçoivent et cela était également le cas, à des degrés différents bien entendu, pour l’homme durant le Moyen Age et l’époque moderne. Comment les images ont-elles façonné sa pensée dans le domaine des sciences et dans quelles mesures en sont-elles représentatives ? Quelle était la nature des illustrations scientifiques et comment les acteurs de ces époques les ont-t-il mises au point et utilisées ? Les périodes médiévale et moderne sont particulièrement propices pour mener une recherche sur la constitution d’une pensée visuelle liée aux savoirs scientifiques. Cet exposé sera l'occasion de présenter un projet de recherche en Humanités numériques visant à contribuer à cette problématique en examinant de quelle façon les développements actuels dans les domaines de l’IA et de la vision artificielle permettent d’envisager des approches nouvelles pour l’analyse historique de la circulation de l’illustration scientifique au cours de ces deux périodes. Nous présenterons à cette occasion les corpus sélectionnés pour cette étude (les manuscrits contenant le Physiologus et le De Materia medica de Dioscoride pour le Moyen Age ; les planches d’histoire naturelle et sciences mathématiques  dans le corpus des dictionnaires et encyclopédies au XVIIIe siècle) et montrerons, sur des exemples, comment les modes de circulation qui sont à l’œuvre dans ces corpus appellent notamment le développement de nouvelles techniques, basées sur la reconnaissance des formes et la mise en relation entre textes et images."
+  slides: nothing
+  video: nothing
+
+- speaker: "Véronique Burnod"
+  date: January 6, 2020
+  time: 13h30-14h00
+  room: "Salle des actes, ENS, 45 rue d’Ulm"
+  affiliation: "Conservateur en chef des musées de France"
+  url: "https://www.ens.fr"
+  title: "Comment les historiens d'art peuvent-ils contribuer au deep learning? "
+  abstract: "Certaines oeuvres d'art doivent être identifiées en l'absence d'archives, voire même au travers de repeints, ce qui complique la donne. L'étude des 'points informatifs' nous renseigne sur l'artiste et sur notre compréhension de ce dernier. Elle nous apporte un éclairage inédit lorsque l'oeuvre n'est pas lisible (mauvaises restaurations, par exemple). Cette nouvelle méthode d'analyse donne d'excellents résultats comme le démontreront les découvertes d'une étude de Michel Ange pour le Jugement dernier de la Sixtine (acquise ensuite par le Louvre) et de 'la Dormeuse de Naples' d'Ingres, une oeuvre mythique disparue parmi les plus recherchées au monde. Cette expertise autorise désormais les historiens d'art qui sont formés à cette discipline à structurer les banques d'images des musées de France. Des travaux d'étudiants réalisés à Lille 3 en donnent la preuve. Désormais l'objectif est de rôder les systèmes en IA sur les banques d'images des Musées de France en lien avec le service de Jean Ponce. Mais comment avancer tant que cette discipline scientifique ne sera pas reconnue chez les Historiens d'Art aux plans national et international ? Actuellement cela paralyse les travaux possibles en lien avec l'IA, l'envergure et l'incidence du projet nécessitant une véritable expertise dans ce domaine."
   slides: nothing
   video: nothing
 

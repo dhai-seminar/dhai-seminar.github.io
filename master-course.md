@@ -16,7 +16,19 @@ Dates and location
 
 Dates: March 30th to April 3rd 2019.
 
-Location: TBA.
+Location: the course will take places in either ENS (45 rue d'Ulm) and [IHP](http://www.ihp.fr/) (11 rue Pierre et Marie Curie).
+
+- Monday March 30, 8h-12h: ENS Salle des actes,
+- Monday March 30, 12h-14h: ENS Salle des actes (special DHAI seminar)
+- Monday March 30, 14h à 19h30:  ENS room R,
+- Tuesday March 31, 9h-<b>12h</b>: IHP, room 314
+- Tuesday March 31, 14:00-16h: ENS room R (Aile Rataud floor -2),  
+- Tuesday March 31, 16h-17h30: ENS room W (Aile Rataud floor +4),
+- Wednesday April 1st, 9h-18h: IHP room 314,
+- Wednesday April 1st, 14h-18h: IHP room 421,
+- Thursday Avril 2nd, 9h-17h30: ENS room R,
+- Friday Avril 3rd, 9h-12h30: Room Dussane,
+- Friday Avril 3rd, 14h30-18h: IHP rooms 421 and 01.
 
 
 Pre-register to the Courses

@@ -1,34 +1,11 @@
-- speaker: "Emmanuelle Bermès and Jean-Philippe Moreux"
-  date: February 3, 2020
-  time: 12h-14h
-  room: "Salle des actes, ENS, 45 rue d’Ulm"
-  affiliation: "BnF"
-  url: "http://production-scientifique.bnf.fr/CV/bermes-emmanuelle"
-  title: "From experimentation to community building: AI at the BnF"
-  abstract: "Artificial intelligence has been present at the BnF for more than 10 years, at least in its 'machine learning' version, through R&D projects conducted with the image and document analysis community. But we can imagine that the rise and fall of expert systems at the beginning of the 1990s will also have questioned the BnF, as our American colleagues did: 'Artificial Intelligence and Expert Systems: Will They Change the Library?' (Linda C. Smith, F. W. Lancaster, University of Illinois, 1992).
-  <br/>Today, the democratization of deep learning promotes the ability to experiment and carry out in virtual autonomy, but also and above all makes possible interdisciplinary projects where expertise on content, data and processing is required. This conference will be an opportunity to present the results of such a project, dedicated to the visual indexing of Gallica's iconographic content, to share our feedback and to consider a common dynamic driven by the needs and achievements of the field of digital humanities practice. <br/> The presentation will place these experiments in the BnF's overall strategy for services to the researchers, but will also broaden the scope by addressing the overall positioning of libraries with regard to AI."
-  slides: nothing
-  video: nothing
-
-- speaker: "Matteo Valleriani"
-  date: March 2, 2020
-  time: 12h-14h
-  room: "Amphithéâtre Galois, ENS, 45 rue d’Ulm"
-  affiliation: "Technische Universität, Berlin"
-  url: "https://www.ens.fr"
-  title: "The Sphere. Knowledge System Evolution and the Shared Scientific Identity of Europe "
-  abstract: "On the basis of the corpus of all early modern printed editions of commentaries on the Sphere of Sacrobosco, the lecture shows how to reconstruct the transformation process—and its mechanisms—undergone by the treatise, and so to explore the evolutionary path, between the fifteenth and the seventeenth centuries, of the scientific system pivoted around cosmological knowledge: the shared scientific identity of Europe. The sources are analyzed on three levels: text, images, and tables. From a methodological point of view the lecture will also show how data are extracted by means of machine learning and analyzed by means of an approach derived from the physics of the complex systems and network theory."
-  slides: nothing
-  video: nothing
-
-- speaker: "to be determiner"
+- speaker: "Aaron Hershkowitz"
   date: March 30, 2020
   time: 12h-14h
   room: "Salle des actes, ENS, 45 rue d’Ulm"
-  affiliation: "?"
+  affiliation: "Institute for Advanced Study"
   url: "https://www.ens.fr"
-  title: "To be determined"
-  abstract: "."
+  title: "The Cutting Edge of Epigraphy: Applying AI to the Identification of Stonecutters"
+  abstract: "Inscriptions are a vital category of evidence about the ancient world, providing a wealth of information about subject matters and geographical regions outside of the scope of surviving literary texts. However, to be most useful inscriptions need to be situated within a chronological context: the more precise the better. This kind of chronological information can sometimes be gleaned from dating formulae or events mentioned in the inscribed texts, but very often no such guideposts survive. In these cases, epigraphers can attempt to date a given text on a comparative basis with other, firmly-dated inscriptions. This comparative dating can be done on the basis of socio-linguistic patterns or the physical shape of letter forms present in the inscription. In the latter case, a very general date can be achieved on the basis of the changing popularity of particular letter forms and shapes in a particular geographic context, or a more specific date can be achieved if the “handwriting” of a stonecutter can be identified. Such a stonecutter would have a delimited length of activity, so that if any of his inscriptions have a firm date, a range of about thirty years or less can be provided to all other inscriptions made by him. Unfortunately, very few scholars have specialized in the ability to detect stonecutter handwriting, but as was showed by an early attempt (see Panagopoulos, Papaodysseus, Rousopoulos, Dafi, and Tracy 2009, “Automatic Writer Identification of Ancient Greek Inscriptions) computer vision analysis has significant promise in this area. The Krateros Project to digitize the epigraphic squeezes of the Institute for Advanced Study is actively working to pursue this line of inquiry, recognizing it as critical for the future of epigraphy generally."
   slides: nothing
   video: nothing
 

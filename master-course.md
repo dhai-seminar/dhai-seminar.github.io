@@ -14,26 +14,14 @@ _Important:_ Master students should check with their master's administration if 
 Dates and location
 ============================
 
-Dates: March 30th to April 3rd 2019.
+Dates: TBA (should be late March / beginning of April)
 
 Location: the course will take places in either ENS (45 rue d'Ulm) and [IHP](http://www.ihp.fr/) (11 rue Pierre et Marie Curie).
-
-- Monday March 30, 8h-12h: ENS Salle des actes,
-- Monday March 30, 12h-14h: ENS Salle des actes (special DHAI seminar)
-- Monday March 30, 14h à 19h30:  ENS room R,
-- Tuesday March 31, 9h-<b>12h</b>: IHP, room 314
-- Tuesday March 31, 14:00-16h: ENS room R (Aile Rataud floor -2),  
-- Tuesday March 31, 16h-17h30: ENS room W (Aile Rataud floor +4),
-- Wednesday April 1st, 9h-18h: IHP room 314 (additional room 421 14h-18h)
-- Thursday Avril 2nd, 9h-17h30: ENS room R,
-- Friday Avril 3rd, 9h-12h30: Room Dussane,
-- Friday Avril 3rd, 14h30-18h: IHP rooms 421 and 01.
-
 
 Pre-register to the Courses
 ============================
 
-[You can pre-register here to the course](https://docs.google.com/forms/d/e/1FAIpQLSe8QkORHNLxIvifTBBb_LrGWqQK15VMDtoWteScuGxSjW14nw/viewform?usp=sf_link).
+[Pre-registration is not yet opened]().
 
 PSL students have priority if they pre-register before January 31st.
 
@@ -78,5 +66,6 @@ Organizers
 - [Matthieu Husson](https://syrte.obspm.fr/spip/science/histoire/membres-de-l-equipe/article/matthieu-husson)
 - [Béatrice Joyeux-Prunel](https://artlas.huma-num.fr/en/staff-member/beatrice-joyeux-prunel-2/)
 - [Gabriel Peyré](http://www.gpeyre.com)
+- [Thierry Poibeau](https://www.lattice.cnrs.fr/membres/direction/thierry-poibeau/)
 - [Léa Saint-Raymond](https://u-paris10.academia.edu/LéaSaintRaymond)
 - [Galla Topalian](https://univ-paris1.academia.edu/GallaTopalian)

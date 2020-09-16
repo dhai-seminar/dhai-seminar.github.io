@@ -14,14 +14,14 @@ _Important:_ Master students should check with their master's administration if 
 Dates and location
 ============================
 
-Dates: TBA (should be late March / beginning of April)
+Dates: 29 mars au 2 avril.
 
 Location: the course will take places in either ENS (45 rue d'Ulm) and [IHP](http://www.ihp.fr/) (11 rue Pierre et Marie Curie).
 
 Pre-register to the Courses
 ============================
 
-[Pre-registration is not yet opened]().
+[Pre-registration is free but mendatory](https://forms.gle/qQFKg8FH3BLsEVxM6).
 
 PSL students have priority if they pre-register before January 31st.
 

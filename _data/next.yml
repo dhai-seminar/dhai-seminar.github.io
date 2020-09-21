@@ -32,14 +32,17 @@
   slides: nothing
   video: nothing
 
-- speaker: "TBA"
+- speaker: "Philippe Gambette"
   date: November 24, 2020
   time: TBA
   room: "online (<a href='??'>link TBA</a>)"
-  affiliation: "??"
-  url: "??"
-  title: "??"
-  abstract: "??"
+  affiliation: "Université Paris-Est Marne-la-Vallée"
+  url: "http://igm.univ-mlv.fr/~gambette/"
+  title: "Alignment and text comparison for digital humanities"
+  abstract: "This talk will provide several algorithmic approaches based on alignment or text comparison algorithms, at different scales, with applications in digital humanities. We will present an alignment-based approach for 16th and 17th century French text modernisation and show the impact of this normalisation process on automatic geographical named entity recognition.<br/>
+  We will also show several visualisation techniques which are useful to explore text corpora by highlighting similarities and differences between those texts at different levels. In particular, we will illustrate the use of Sankey diagrams at different levels to align various editions of the same text, such as poetry books by Marceline Desbordes-Valmore published from 1819 to 1830 or Heptameron by Marguerite de Navarre. This visualisation tool can also be used to contrast the most frequent words of two comparable corpora to highlight their differences. We will also illustrate how the use of word trees, built with the TreeCloud software, helps identifying trends in a corpus, by comparing the trees built for subsets of the corpus.<br/>
+  We will finally focus on stemmatology, where the analysed texts are supposed to be derived from a unique initial manuscript. We will describe a tree reconstruction algorithm designed to take linguistic input into account when building a tree describing the history of the manuscripts, as well as a list of observed variants supporting its edges.<br/>
+  Contributors of these works include Delphine Amstutz, Jean-Charles Bontemps, Aleksandra Chaschina, Hilde Eggermont, Raphaël Gaudy, Eleni Kogkitsidou, Gregory Kucherov, Tita Kyriacopoulou, Nadège Lechevrel, Xavier Le Roux, Claude Martineau, William Martinez, Anna-Livia Morand, Jonathan Poinhos, Caroline Trotot and Jean Véronis."
   slides: nothing
   video: nothing
 

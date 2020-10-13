@@ -1,30 +1,9 @@
 
-- speaker: "Karine Gentelet"
-  date: October 9, 2020
-  time: 15:00-16:30
-  room: "online (<a href='https://global.gotomeeting.com/join/223326581'>link here</a>)"
-  affiliation: "Université du Québec en Outaouais (Canada)"
-  url: "https://apps.uqo.ca/DosEtuCorpsProf/PageProfesseur.aspx?id=karine.gentelet@uqo.ca"
-  title: "Reflections on the decolonization processes and data sovereignty based on the digital and AI strategies of indigenous peoples in Canada"
-  abstract: "This presentation will focus on the digital strategies developed by Indigenous Peoples to reaffirm their information sovereignty and how they contribute to the decolonization of data. The information that represents Indigenous Peoples is tainted by colonization and systemic practices of informational discrimination. Their initiatives of informational sovereignty and data decolonization allows data that is collected by and for them and therefore much more accurate, diversified and representative of their realities and needs. The principles developed by Indigenous Peoples not only testify to an asserted digital agency but also induce a paradigmatical shift due to the inclusion of ancestral knowledge and traditional modes of governance. It allows a new power balance within the digital ecosystem. (see below for the French version of this abstract)"
-  slides: nothing
-  video: nothing
-
-- speaker: "Karine Gentelet"
-  date: October 9, 2020
-  time: 15:00-16:30
-  room: "online (<a href='https://global.gotomeeting.com/join/223326581'>link here</a>)"
-  affiliation: "Université du Québec en Outaouais (Canada)"
-  url: "https://apps.uqo.ca/DosEtuCorpsProf/PageProfesseur.aspx?id=karine.gentelet@uqo.ca"
-  title: "Réflexions sur les processus de décolonisation et souveraineté des données à partir des stratégies numériques et d’IA des Peuples autochtones au Canada"
-  abstract: "Cette présentation portera sur les stratégies numériques développées par les Peuples autochtones pour réaffirmer leur souveraineté en matière d'information et sur la manière dont ils contribuent à la décolonisation des données. Les informations qui représentent les Peuples autochtones sont biaisées du fait de la colonisation et des pratiques systémiques de discrimination informationnelle. Leurs initiatives de souveraineté informationnelle et de décolonisation des données permettent de recueillir des données par et pour eux et donc beaucoup plus précises, diversifiées et représentatives de leurs réalités et de leurs besoins. Les principes développés par les Peuples autochtones témoignent non seulement d'une agence numérique affirmée, mais induisent également un changement de paradigme dû à l'inclusion des connaissances ancestrales et des modes de gouvernance traditionnels. Ils permettent un nouvel équilibre des pouvoirs au sein de l'écosystème numérique."
-  slides: nothing
-  video: nothing
 
 - speaker: "The DHAI team"
   date: October 20, 2020
-  time: TBA
-  room: "online (<a href='??'>link TBA</a>)"
+  time: 12:00-14:00
+  room: "online (<a href='https://global.gotomeeting.com/join/495493061'>link here</a>)"
   affiliation: "DHAI"
   url: "https://dhai-seminar.github.io/"
   title: "Heads and Tails: When Digital Humanities and Artificial Intelligence Meet."

@@ -13,8 +13,8 @@
 
 - speaker: "Philippe Gambette"
   date: November 24, 2020
-  time: TBA
-  room: "online (<a href='??'>link TBA</a>)"
+  time: 12:00-14:00
+  room: "online (<a href='https://global.gotomeeting.com/join/739935277'>link here</a>)"
   affiliation: "Université Paris-Est Marne-la-Vallée"
   url: "http://igm.univ-mlv.fr/~gambette/"
   title: "Alignment and text comparison for digital humanities"
@@ -27,12 +27,12 @@
 
 - speaker: "Carl Langlais"
   date: December 15th, 2020
-  time: TBA
-  room: "online (<a href='??'>link TBA</a>)"
+  time: 12:00-14:00
+  room: "online (<a href='https://global.gotomeeting.com/join/664548853'>link here</a>)"
   affiliation: "Paris-IV Sorbonne"
   url: "http://www.numapresse.org/annuaire/pierre-carl-langlais/"
-  title: "TBA"
-  abstract: "TBA"
+  title: "Redefining the cultural history of newspapers with artificial intelligence: the experiments of the Numapresse project"
+  abstract: "During the last twenty years, libraries developed massive digitization program. While this shift has significantly enhanced the accessibility cultural digital archives, it has also opened up unprecedented research opportunities. Innovative projects have recently attempted to apply large scale quantitative methods borrowed from computer science to tackle ambitious historical issues. The Numapresse project proposes a new cultural history of French newspaper from 1800, notably through the distant reading of detailed digitization outputs from the French National Library and other partners. It has recently become a pilot project of the future data labs of the French National Library. This presentation features a series of 'operationalization' of core concepts of the cultural history of the news in the context of a continuous methodological dialog with statistics, data science, and machine learning. Classic methods of text mining have been supplemented with spatial analysis of pages to deal with the complex and polyphonic editorial structures of newspapers in order to retrieve specific formats like signatures or news dispatch. The project has created a library of 'genre models' which made it possible to retrieve large collections of texts belong to leading newspaper genres in different historical settings. This approach has been extended to large collections of newspaper images through the retraining of deep learning models. The automated identification of text and image reprints also makes it possible to map the transforming ecosystem of French networks and its connection to other publication formats. The experimental work of Numapresse aims to foster a modeling ecosystem among research and library communities working on cultural heritage archives."
   slides: nothing
   video: nothing
 

@@ -42,6 +42,7 @@ Next seminars
 Scientific Committee
 ============================
 
+- [Segolene Albouy](https://github.com/Segolene-Albouy)
 - [Mathieu Aubry](http://imagine.enpc.fr/~aubrym/)
 - [Jean-Baptiste Camps](http://www.chartes.psl.eu/fr/jean-baptiste-camps)
 - [Matthieu Husson](https://syrte.obspm.fr/spip/science/histoire/membres-de-l-equipe/article/matthieu-husson)
@@ -49,7 +50,6 @@ Scientific Committee
 - [Gabriel Peyré](http://www.gpeyre.com)
 - [Thierry Poibeau](https://www.lattice.cnrs.fr/membres/direction/thierry-poibeau/)
 - [Léa Saint-Raymond](https://u-paris10.academia.edu/LéaSaintRaymond)
-- [Galla Topalian](https://univ-paris1.academia.edu/GallaTopalian)
 
 
 Supported by

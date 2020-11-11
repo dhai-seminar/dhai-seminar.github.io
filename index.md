@@ -59,9 +59,9 @@ Supported by
 <p align="center">
 
 <a href="https://www.psl.eu/">
-<img width="300" src="img/psl-logo"/></a>
+<img width="400" src="img/psl-logo.png"/></a>
 
-<br/>
+<br/><br/>
 
 <a href="http://www.enpc.fr/"><img height="90" src="http://www.enpc.fr/sites/all/themes/enpc/images/logo.svg"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

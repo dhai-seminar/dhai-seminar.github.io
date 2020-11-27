@@ -25,7 +25,7 @@ Among these themes, three will be chosen to feature in our series of seminars an
 Description (french)
 ============================
 
-La [Chaire Abeona-ENS-OBVIA de Karine Gentelet](https://observatoire-ia.ulaval.ca/karine-gentelet-nouvelle-titulaire-de-la-chaire-abeona-ens-obvia-intelligence-artificielle-et-justice-sociale/) organise une série de séminaires gradués sur l’intelligence artificielle et la justice social.  Ces séminaires seront organisés en ligne de janvier à avril 2021. Il y aura une séance en anglais et deux en français. L’objectif de ces séminaires est de réunir des étudiants multidisciplinaires de cycle supérieur afin de leur permettre à participer à un dialogue permettant d’explorer les défis sociétaux auxquels nous faisons face compte tenu de la présence croissante de l’intelligence artificielle dans nos vies quotidiennes.  À cet effet, nous vous proposons cinq thèmes différents :  
+La [Chaire Abeona-ENS-OBVIA de Karine Gentelet](https://observatoire-ia.ulaval.ca/karine-gentelet-nouvelle-titulaire-de-la-chaire-abeona-ens-obvia-intelligence-artificielle-et-justice-sociale/) organise une série de séminaires gradués sur l’intelligence artificielle et la justice sociale.  Ces séminaires seront organisés en ligne de janvier à avril 2021. Il y aura une séance en anglais et deux en français. L’objectif de ces séminaires est de réunir des étudiants multidisciplinaires de cycle supérieur afin de leur permettre de participer à un dialogue permettant d’explorer les défis sociétaux auxquels nous faisons face compte tenu de la présence croissante de l’intelligence artificielle dans nos vies quotidiennes.  À cet effet, nous vous proposons cinq thèmes différents :  
 
 1.	Souveraineté, empowerment (encapacitation/pouvoir d’agir) et activismes technologiques
 2.	Les droits humains par, dans et pour la conception
@@ -35,4 +35,4 @@ La [Chaire Abeona-ENS-OBVIA de Karine Gentelet](https://observatoire-ia.ulaval.c
 
 Parmi ces thèmes, trois seront choisis pour figurer dans notre série de séminaires et nous vous laissons le choix!  
 
-[Préinscrivez-vous ici et laissez-nous savoir quels thèmes vous intéressent le plus.](https://forms.gle/h7EQ9vUqfaQGX5LK9)
+[Préinscrivez-vous ici et dites-nous quels thèmes vous intéressent le plus.](https://forms.gle/h7EQ9vUqfaQGX5LK9)

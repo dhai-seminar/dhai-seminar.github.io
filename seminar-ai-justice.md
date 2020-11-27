@@ -10,7 +10,7 @@ Description (english)
 ============================
 
 
-The [Abeona-ENS-OBVIA Chair of Karine Gentelet](https://observatoire-ia.ulaval.ca/karine-gentelet-nouvelle-titulaire-de-la-chaire-abeona-ens-obvia-intelligence-artificielle-et-justice-sociale/) is organizing a series of 3 graduate seminars on artificial intelligence and social justice. These seminars will be organized online from January to April 2021. There will be one session in English and two in French. The aim of these seminars is to unite graduate students from various disciplines and allow them to engage in a dialogue surrounding the societal challenges we’re facing in light of the ubiquitous presence of artificial intelligence in our everyday lives.  To this effect, we have come up with five different themes:  
+The [Abeona-ENS-OBVIA Chair of Karine Gentelet](https://observatoire-ia.ulaval.ca/karine-gentelet-nouvelle-titulaire-de-la-chaire-abeona-ens-obvia-intelligence-artificielle-et-justice-sociale/) is organizing a series of 3 graduate seminars on artificial intelligence and social justice. These seminars will be organized online from January to April 2021. There will be some sessions in English and some in French. The aim of these seminars is to unite graduate students from various disciplines and allow them to engage in a dialogue surrounding the societal challenges we’re facing in light of the ubiquitous presence of artificial intelligence in our everyday lives.  To this effect, we have come up with five different themes:  
 
 1.	Sovereignty Empowerment and Technological Activism
 2.	Human rights by, in and for design
@@ -25,8 +25,7 @@ Among these themes, three will be chosen to feature in our series of seminars an
 Description (french)
 ============================
 
-La [Chaire Abeona-ENS-OBVIA de Karine Gentelet](https://observatoire-ia.ulaval.ca/karine-gentelet-nouvelle-titulaire-de-la-chaire-abeona-ens-obvia-intelligence-artificielle-et-justice-sociale/) organise une série de séminaires gradués sur l’intelligence artificielle et la justice social.  
-Ces séminaires seront organisés en ligne de janvier à avril 2021. Il y aura une séance en anglais et deux en français. L’objectif de ces séminaires est de réunir des étudiants multidisciplinaires de cycle supérieur afin de leur permettre à participer à un dialogue permettant d’explorer les défis sociétaux auxquels nous faisons face compte tenu de la présence croissante de l’intelligence artificielle dans nos vies quotidiennes.  À cet effet, nous vous proposons cinq thèmes différents :  
+La [Chaire Abeona-ENS-OBVIA de Karine Gentelet](https://observatoire-ia.ulaval.ca/karine-gentelet-nouvelle-titulaire-de-la-chaire-abeona-ens-obvia-intelligence-artificielle-et-justice-sociale/) organise une série de séminaires gradués sur l’intelligence artificielle et la justice social.  Ces séminaires seront organisés en ligne de janvier à avril 2021. Il y aura une séance en anglais et deux en français. L’objectif de ces séminaires est de réunir des étudiants multidisciplinaires de cycle supérieur afin de leur permettre à participer à un dialogue permettant d’explorer les défis sociétaux auxquels nous faisons face compte tenu de la présence croissante de l’intelligence artificielle dans nos vies quotidiennes.  À cet effet, nous vous proposons cinq thèmes différents :  
 
 1.	Souveraineté, empowerment (encapacitation/pouvoir d’agir) et activismes technologiques
 2.	Les droits humains par, dans et pour la conception

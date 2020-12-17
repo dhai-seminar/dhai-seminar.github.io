@@ -22,7 +22,7 @@ The ambition of this seminar is to be one of the places where this coupling is s
 Mailing list
 ===========================
 
-You can [subscribe to the mailing list from here](https://docs.google.com/forms/d/e/1FAIpQLSdQPssRAUxsw2ixoO0LtEXwLtgTpXtNCI9oUSDmQOv2HV5EVg/viewform?usp=sf_link), in order to received the announcements of the seminars.
+You can [subscribe to the mailing list from here](https://docs.google.com/forms/d/e/1FAIpQLSdQPssRAUxsw2ixoO0LtEXwLtgTpXtNCI9oUSDmQOv2HV5EVg/viewform?usp=sf_link), in order to receive the announcements of the seminars.
 
 
 

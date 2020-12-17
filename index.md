@@ -19,6 +19,13 @@ The coupling AI/DH is globally emerging as one key interface for both domains an
 
 The ambition of this seminar is to be one of the places where this coupling is shaped, fostered and analyzed. It intends to offer a forum where both communities, understood in a very inclusive way, exchange around emerging issues, ongoing projects, and past experiences in order to build a common language, a shared space, and to encourage innovative cooperation on the long run.
 
+Mailing list
+===========================
+
+You can [subscribe to the mailing list from here](https://docs.google.com/forms/d/e/1FAIpQLSdQPssRAUxsw2ixoO0LtEXwLtgTpXtNCI9oUSDmQOv2HV5EVg/viewform?usp=sf_link), in order to received the announcements of the seminars.
+
+
+
 Past seminars
 ===========================
 

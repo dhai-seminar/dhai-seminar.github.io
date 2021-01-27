@@ -41,7 +41,7 @@
   We will finally focus on stemmatology, where the analysed texts are supposed to be derived from a unique initial manuscript. We will describe a tree reconstruction algorithm designed to take linguistic input into account when building a tree describing the history of the manuscripts, as well as a list of observed variants supporting its edges.<br/>
   Contributors of these works include Delphine Amstutz, Jean-Charles Bontemps, Aleksandra Chaschina, Hilde Eggermont, Raphaël Gaudy, Eleni Kogkitsidou, Gregory Kucherov, Tita Kyriacopoulou, Nadège Lechevrel, Xavier Le Roux, Claude Martineau, William Martinez, Anna-Livia Morand, Jonathan Poinhos, Caroline Trotot and Jean Véronis."
   slides: nothing
-  video: nothing
+  video: https://savoirs.ens.fr/expose.php?id=3912
 
 - speaker: "The DHAI team"
   date: October 20, 2020
@@ -52,7 +52,7 @@
   title: "Heads and Tails: When Digital Humanities and Artificial Intelligence Meet."
   abstract: "Joint presentation of the DHAI team, which serves as an introduction to this second season of DHAI."
   slides: nothing
-  video: nothing
+  video: https://savoirs.ens.fr/expose.php?id=3911
 
 - speaker: "Karine Gentelet"
   date: October 9, 2020

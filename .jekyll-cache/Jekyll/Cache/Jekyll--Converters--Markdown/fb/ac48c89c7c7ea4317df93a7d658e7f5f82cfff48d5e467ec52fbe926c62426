@@ -1,4 +1,15 @@
-I"L�<p>You can find below the list of past seminars.</p>
+I"��<p>You can find below the list of past seminars.</p>
+
+<p>
+  February 16, 2021, <a href="https://filigranes.hypotheses.org/">Marc Smith, Oumayma Bounou</a> (École nationale des chartes)
+  
+  
+  
+  
+  <br />
+  <b>Title:</b> <i>Filigranes pour tous: Historical watermarks recognition</i><br />
+  <b>Abstract:</b> We developed a web application to identify a watermark from a simple smartphone photograph by matching it to a corresponding watermark design from a database with more than 16000 designs. After describing the deep learning based recognition method that was built upon the approach of Shen et al, we will present our web application which not only can be used for watermark recognition, but can also serve as a crowdsourcing platform aiming to be enriched by its users. <br /> <i>Bibliography:</i><br /> - Xi Shen, Ilaria Pastrolin, Oumayma Bounou, Spyros Gidaris, Marc Smith, Olivier Poncet, Mathieu Aubry, Large-Scale Historical Watermark Recognition: dataset and a new consistency-based approach, ICPR 2020<br /> - Oumayma Bounou, Tom Monnier, Ilaria Pastrolin, Xi Shen, Christine Bénévent, Marie-Françoise Limon-Bonnet, François Bougard, Mathieu Aubry, Marc Smith, Olivier Poncet, Pierre-Guillaume Raverdy, A Web Application for Watermark Recognition, JDMDH 2020<br /> <i>Links:</i><br /> - <a href="https://filigranes.hypotheses.org/">Humanity/Filigranes pour tous</a><br /> - <a href="http://imagine.enpc.fr/~shenx/Watermark/">Computer Vision</a><br /> - <a href="https://filigranes.inria.fr/#/filigrane-search">Web application</a>
+  </p>
 
 <p>
   January 19th, 2021, <a href="https://cpaf.cnrs.fr/spip.php?article27">Daniel Stoekl</a> (École Pratique des Hautes Études)
@@ -25,6 +36,7 @@
 <p>
   November 24, 2020, <a href="http://igm.univ-mlv.fr/~gambette/">Philippe Gambette</a> (Université Paris-Est Marne-la-Vallée)
   
+    [<a href="https://savoirs.ens.fr/expose.php?id=3912">video</a>]
   
   
   
@@ -36,6 +48,7 @@
 <p>
   October 20, 2020, <a href="https://dhai-seminar.github.io/">The DHAI team</a> (DHAI)
   
+    [<a href="https://savoirs.ens.fr/expose.php?id=3911">video</a>]
   
   
   

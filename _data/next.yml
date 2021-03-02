@@ -1,21 +1,4 @@
-- speaker: "Marc Smith, Oumayma Bounou"
-  date: February 16, 2021
-  time: 12:00-14:00
-  room: "(<a href='https://global.gotomeeting.com/join/503778645'>online, link</a>)"
-  affiliation: "École nationale des chartes"
-  url: "https://filigranes.hypotheses.org/"
-  title: "Filigranes pour tous: Historical watermarks recognition"
-  abstract: "We developed a web application to identify a watermark from a simple smartphone photograph by matching it to a corresponding watermark design from a database with more than 16000 designs.
-After describing the deep learning based recognition method that was built upon the approach of Shen et al, we will present our web application which not only can be used for watermark recognition, but can also serve as a crowdsourcing platform aiming to be enriched by its users. <br/>
-<i>Bibliography:</i><br/>
-- Xi Shen, Ilaria Pastrolin, Oumayma Bounou, Spyros Gidaris, Marc Smith, Olivier Poncet, Mathieu Aubry, Large-Scale Historical Watermark Recognition: dataset and a new consistency-based approach, ICPR 2020<br/>
-- Oumayma Bounou, Tom Monnier, Ilaria Pastrolin, Xi Shen, Christine Bénévent, Marie-Françoise Limon-Bonnet, François Bougard, Mathieu Aubry, Marc Smith, Olivier Poncet, Pierre-Guillaume Raverdy, A Web Application for Watermark Recognition, JDMDH 2020<br/>
-<i>Links:</i><br/>
-- <a href='https://filigranes.hypotheses.org/'>Humanity/Filigranes pour tous</a><br/>
-- <a href='http://imagine.enpc.fr/~shenx/Watermark/'>Computer Vision</a><br/>
-- <a href='https://filigranes.inria.fr/#/filigrane-search'>Web application</a>"
-  slides: nothing
-  video: nothing
+
 
 - speaker: "Stavros Lazaris and Alexandre Guilbaud"
   date: March 16, 2021
@@ -23,8 +6,10 @@ After describing the deep learning based recognition method that was built upon 
   room: "(<a href='https://global.gotomeeting.com/join/589368397'>online, link</a>)"
   affiliation: "CNRS and Sorbonne Université"
   url: "https://webusers.imj-prg.fr/~alexandre.guilbaud/"
-  title: "VHS"
-  abstract: "??"
+  title: "[voir ci dessous]"
+  abstract: "
+  <b>Stavros Lazaris (CNRS, UMR Orient & Méditerranée):</b> <i>Voir, c’est savoir.</i> Nous vivons entourés d’images. Elles nous portent, nous charment ou nous déçoivent et cela était également le cas, à des degrés différents bien entendu, pour l’homme médiéval. Comment les images ont-elles façonné sa pensée ? Quelle était leur nature et comment l’homme médiéval pouvait les utiliser ? La période médiévale est particulièrement propice pour mener une recherche sur la constitution d’une pensée visuelle liée aux savoirs scientifiques grâce à l'apport de l'IA. Cette présentation sera l'occasion de passer en revue un projet de recherche en Humanités numériques basé sur la reconnaissance de formes et les solutions que peut apporter l'IA dans les recherches actuelles en représentations visuelles médiévales.<br/><br/>
+  <b>Alexandre Guilbaud (Sorbonne Université, Institut de mathématiques de Jussieu - Paris Rive Gauche, Institut des sciences du calcul et des données):</b> <i>L’IA et la manufacture des planches au XVIIIe siècle:</i> Nous vivons entourés d’images. Elles nous portent, nous charment ou nous déçoivent et cela était également le cas, à des degrés différents bien entendu, pour l’homme médiéval. Comment les images ont-elles façonné sa pensée ? Quelle était leur nature et comment l’homme médiéval pouvait les utiliser ? La période médiévale est particulièrement propice pour mener une recherche sur la constitution d’une pensée visuelle liée aux savoirs scientifiques grâce à l'apport de l'IA. Cette présentation sera l'occasion de passer en revue un projet de recherche en Humanités numériques basé sur la reconnaissance de formes et les solutions que peut apporter l'IA dans les recherches actuelles en représentations visuelles médiévales."
   slides: nothing
   video: nothing
 

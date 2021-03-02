@@ -1,4 +1,4 @@
-I"<p>Welcome to the Digital Humanities / Artificial Intelligence Seminar!</p>
+I"><p>Welcome to the Digital Humanities / Artificial Intelligence Seminar!</p>
 
 <h1 id="goal">Goal</h1>
 
@@ -20,24 +20,17 @@ Digital humanities, developing digital science methodologies in the study of hum
 <h1 id="next-seminars">Next seminars</h1>
 
 <p>
-  February 16, 2021, 12:00-14:00, room (<a href="https://global.gotomeeting.com/join/503778645">online, link</a>).<br />
-  <a href="https://filigranes.hypotheses.org/">Marc Smith, Oumayma Bounou</a>  (École nationale des chartes)<br />
-  <b>Title:</b> <i>Filigranes pour tous: Historical watermarks recognition</i><br />
-  <b>Abstract:</b> We developed a web application to identify a watermark from a simple smartphone photograph by matching it to a corresponding watermark design from a database with more than 16000 designs. After describing the deep learning based recognition method that was built upon the approach of Shen et al, we will present our web application which not only can be used for watermark recognition, but can also serve as a crowdsourcing platform aiming to be enriched by its users. <br /> <i>Bibliography:</i><br /> - Xi Shen, Ilaria Pastrolin, Oumayma Bounou, Spyros Gidaris, Marc Smith, Olivier Poncet, Mathieu Aubry, Large-Scale Historical Watermark Recognition: dataset and a new consistency-based approach, ICPR 2020<br /> - Oumayma Bounou, Tom Monnier, Ilaria Pastrolin, Xi Shen, Christine Bénévent, Marie-Françoise Limon-Bonnet, François Bougard, Mathieu Aubry, Marc Smith, Olivier Poncet, Pierre-Guillaume Raverdy, A Web Application for Watermark Recognition, JDMDH 2020<br /> Links: - [Humanity/Filigranes pour tous](https://filigranes.hypotheses.org/)<br /> - [Computer Vision](http://imagine.enpc.fr/~shenx/Watermark/)<br /> - [Web application](https://filigranes.inria.fr/#/filigrane-search)
-  </p>
-
-<p>
   March 16, 2021, 12:00-14:00, room (<a href="https://global.gotomeeting.com/join/589368397">online, link</a>).<br />
   <a href="https://webusers.imj-prg.fr/~alexandre.guilbaud/">Stavros Lazaris and Alexandre Guilbaud</a>  (CNRS and Sorbonne Université)<br />
-  <b>Title:</b> <i>VHS</i><br />
-  <b>Abstract:</b> ??
+  <b>Title:</b> <i>[voir ci dessous]</i><br />
+  <b>Abstract:</b>  <b>Stavros Lazaris (CNRS, UMR Orient &amp; Méditerranée):</b> <i>Voir, c’est savoir.</i> Nous vivons entourés d’images. Elles nous portent, nous charment ou nous déçoivent et cela était également le cas, à des degrés différents bien entendu, pour l’homme médiéval. Comment les images ont-elles façonné sa pensée ? Quelle était leur nature et comment l’homme médiéval pouvait les utiliser ? La période médiévale est particulièrement propice pour mener une recherche sur la constitution d’une pensée visuelle liée aux savoirs scientifiques grâce à l'apport de l'IA. Cette présentation sera l'occasion de passer en revue un projet de recherche en Humanités numériques basé sur la reconnaissance de formes et les solutions que peut apporter l'IA dans les recherches actuelles en représentations visuelles médiévales.<br /><br /> <b>Alexandre Guilbaud (Sorbonne Université, Institut de mathématiques de Jussieu - Paris Rive Gauche, Institut des sciences du calcul et des données):</b> <i>L’IA et la manufacture des planches au XVIIIe siècle:</i> Nous vivons entourés d’images. Elles nous portent, nous charment ou nous déçoivent et cela était également le cas, à des degrés différents bien entendu, pour l’homme médiéval. Comment les images ont-elles façonné sa pensée ? Quelle était leur nature et comment l’homme médiéval pouvait les utiliser ? La période médiévale est particulièrement propice pour mener une recherche sur la constitution d’une pensée visuelle liée aux savoirs scientifiques grâce à l'apport de l'IA. Cette présentation sera l'occasion de passer en revue un projet de recherche en Humanités numériques basé sur la reconnaissance de formes et les solutions que peut apporter l'IA dans les recherches actuelles en représentations visuelles médiévales.
   </p>
 
 <p>
-  April 13, 2021, TBA, room online (<a href="??">link TBA</a>).<br />
-  <a href="??">TBA</a>  (??)<br />
-  <b>Title:</b> <i>??</i><br />
-  <b>Abstract:</b> ??
+  April 13, 2021, 12:00-14:00, room online (<a href="https://global.gotomeeting.com/join/686611389">online, link</a>).<br />
+  <a href="https://www.cyu.fr/ecoles-universitaires-de-recherche">Christophe Tuffery and Grazia Nicosia</a>  (Inrap, EUR Paris Seine Université Humanités)<br />
+  <b>Title:</b> <i>Patrimoine et humanités numériques. Regards croisés entre archéologie et conservation-restauration des biens culturels</i><br />
+  <b>Abstract:</b> L'utilisation des technologies numériques a fortement impacté les données patrimoniales aussi bien issues de fouilles archéologiques que celles résultant dun suivi de l'état des œuvres dans un contexte muséal. Deux professionnels du patrimoine, sur la base de recherches en cours, montreront l'incidence du numérique sur le processus de fouille, de documentation et de conservation matérielle du patrimoine. Ce dialogue abordera sous les angles scientifiques et opérationnels les conditions de production et d'utilisation des données relatives au patrimoine archéologique et muséal.
   </p>
 
 <p>
@@ -49,8 +42,8 @@ Digital humanities, developing digital science methodologies in the study of hum
 
 <p>
   June 8, 2021, TBA, room online (<a href="??">link TBA</a>).<br />
-  <a href="??">TBA</a>  (??)<br />
-  <b>Title:</b> <i>??</i><br />
+  <a href="http://nil.fdi.ucm.es/?q=members/pablogervas">Pablo Gervas</a>  (Universidad Complutense de Madrid)<br />
+  <b>Title:</b> <i>Computational narrative</i><br />
   <b>Abstract:</b> ??
   </p>
 

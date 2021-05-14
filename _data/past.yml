@@ -1,3 +1,32 @@
+- speaker: "Benjamin Azoulay"
+  date: May 11, 2021
+  time: 12:00-14:00
+  room: "online (<a href='https://global.gotomeeting.com/join/771127405 '>Gotomeeting link</a>)"
+  affiliation: "ENS Paris-Saclay"
+  url: " https://shiny.ens-paris-saclay.fr/app/gallicagram"
+  title: "Gallicagram, un nouvel outil de lexicographie : le big data sans ses gros sabots ?"
+  abstract: "Avec son outil Ngram Viewer, l'entreprise Google pensait en 2010 fonder une nouvelle science : les culturomics. Onze ans plus tard, force est de constater que malgré les ambitieuses promesses du logiciel, son utilisation par les chercheurs reste rare. Les griefs contre Ngram Viewer sont nombreux : corpus opaque, inaccessible et difficile à maîtriser, qualité médiocre des métadonnées, etc. [Gallicagram](https://shiny.ens-paris-saclay.fr/app/gallicagram) est un outil open-source, conçu pour répondre à ces enjeux essentiels d’interprétation en tirant le meilleur profit du libre accès aux données de Gallica. Il permet une maîtrise efficace des corpus étudiés grâce à leur délimitation, en amont des traitements effectués comme à leur description, en aval, et propose différents modes d'analyse complémentaires permettant de tester rapidement une hypothèse.
+L'analyse du corpus de presse introduit aussi de nouvelles possibilités en histoire politique et en histoire culturelle : il permet ainsi aux chercheurs de s'approcher au plus près des évènements tout en conservant une vision macroscopique.
+Cette discussion visera à présenter cet outil, à décrire son fonctionnement et à en illustrer les nombreux usages possibles par plusieurs exemples concrets."
+  slides: 2021-05-11-gallicagram.pdf
+  video: nothing
+
+
+- speaker: "Benoît de Courson"
+  date: May 11, 2021
+  time: 12:00-14:00
+  room: "online (<a href='https://global.gotomeeting.com/join/771127405 '>Gotomeeting link</a>)"
+  affiliation: "ENS PSL"
+  url: "https://shiny.ens-paris-saclay.fr/app/gallicagram"
+  title: "Outillage de présentation des travaux en humanités numériques : pour une approche non-métaphorique des interfaces graphiques"
+  abstract: "L’intervention d’u2p050 portera une réflexion autour des modes de présentation en visioconférence des résultats issus des humanités numériques. Chaque voix, chaque propos est distinct et doit pouvoir bénéficier d’un outillage spécifique, comme une pensée est retranscrite avec des mots qui lui sont propres. Lors de la dernière séance du séminaire DHAI, nous avons collaboré avec l’archéologue Christophe Tuffery afin de produire une interface spécifique à son objet d’étude : l’impact du numérique dans la construction du savoir archéologique.<br/>
+L’objectif de notre intervention sera d’envisager les possibilités d’une mise en exergue de la contingence qui préside à l’utilisation de tel ou tel des outils classiques de la conférence en montrant la neutralité factice que ces médias présupposent, et la nécessité d’une production singulière d’interface dans le régime de réinterprétation continue des données propres au numérique. <br/>
+u2p050 proposera dans un second temps une réflexion sur le statut métaphorique qu’entretiennent les interfaces graphiques face à la littéralité supposée des interfaces textuelles (CLI) : gage de scientificité. Finalement, à partir de cette analyse entre régime métaphorique/régime littéral des interfaces, u2p050 envisagera une problématisation de l’intelligence artificielle à partir de sa scène primitive : l’article de Turing Computing Machinery and Intelligence.<br/>
+u2p050 est une machine-entreprise de production audio(s)/visuelle(s) philosophique qui explore les relations entre les pensées conceptuelles et les matériaux numériques qui les enregistrent, les transforment et les diffusent. Actuellement hébergée à la Gaité Lyrique, ses expérimentations s’inscrivent à la croisée du cinéma, de l’art, de la technologie et de la philosophie.
+"
+  slides: nothing
+  video: nothing
+
 
 
 - speaker: "Christophe Tuffery and Grazia Nicosia"
@@ -38,7 +67,7 @@
 Nous présenterons les principaux défis qu'il faudrait surmonter pour pouvoir identifier de manière complètement automatique les reprises d'image. Le premier de ces défis que nous détaillerons est <a href='http://imagine.enpc.fr/~monniert/docExtractor/'>l'extraction automatique d'image dans des documents historiques.</a> Nous discuterons ensuite les problèmes liés à la mise en correspondance entre les images extraites.
   "
   slides: nothing
-  video: nothing
+  video: https://savoirs.ens.fr/expose.php?id=3954
 
 - speaker: "Marc Smith, Oumayma Bounou"
   date: February 16, 2021
@@ -87,7 +116,7 @@ After describing the deep learning based recognition method that was built upon 
   title: "Redefining the cultural history of newspapers with artificial intelligence: the experiments of the Numapresse project"
   abstract: "During the last twenty years, libraries developed massive digitization program. While this shift has significantly enhanced the accessibility cultural digital archives, it has also opened up unprecedented research opportunities. Innovative projects have recently attempted to apply large scale quantitative methods borrowed from computer science to tackle ambitious historical issues. The Numapresse project proposes a new cultural history of French newspaper from 1800, notably through the distant reading of detailed digitization outputs from the French National Library and other partners. It has recently become a pilot project of the future data labs of the French National Library. This presentation features a series of 'operationalization' of core concepts of the cultural history of the news in the context of a continuous methodological dialog with statistics, data science, and machine learning. Classic methods of text mining have been supplemented with spatial analysis of pages to deal with the complex and polyphonic editorial structures of newspapers in order to retrieve specific formats like signatures or news dispatch. The project has created a library of 'genre models' which made it possible to retrieve large collections of texts belong to leading newspaper genres in different historical settings. This approach has been extended to large collections of newspaper images through the retraining of deep learning models. The automated identification of text and image reprints also makes it possible to map the transforming ecosystem of French networks and its connection to other publication formats. The experimental work of Numapresse aims to foster a modeling ecosystem among research and library communities working on cultural heritage archives."
   slides: nothing
-  video: nothing
+  video: https://savoirs.ens.fr/expose.php?id=3918
 
 - speaker: "Philippe Gambette"
   date: November 24, 2020

@@ -1,27 +1,10 @@
-
-
-- speaker: "Pablo Gervas"
-  date: June 8, 2021
+- speaker: "The whole DHAI team "
+  date: October 12, 2021
   time: 12:00-14:00
-  room: "online (<a href='https://global.gotomeeting.com/join/184397117'>link GotoMeeting</a>)"
-  affiliation: "Universidad Complutense de Madrid"
-  url: "http://nil.fdi.ucm.es/?q=members/pablogervas"
-  title: "Embedded Stories and Narrative Levels: a challenge for Computational Narrative"
-  abstract: "Stories told by a character within a story are known as embedded stories.
-They occur frequently in narrative and they constitute an important
-challenge to models of narrative interpretation. Computational
-procedures for interpreting a story need to account for these embedded
-stories in terms of how to represent them and how to process them in
-the context of the story acting as frame for them. The talk will explain
-the concept of embedded stories over some real examples of narrative, describe
-the challenges that their computational treatment poses, and
-describe a simplified computational model for the task.
-The proposed model is capable of representing discourses
-for embedded stories and interpret them onto a representation
-that captures their recursive structure. Some examples of application
-of the model to examples of stories from different domains will be presented,
-and some preliminary conclusions will be outlined on what embedding implies
-in terms of computational interpretation of narrative, and the challenges it
-poses for the ever-growing research efforts for the automated processing of narrative."
+  room: "ENS Center for Data Sciences, stair B, 3rd floor"
+  affiliation: "DHAI"
+  url: "https://dhai-seminar.github.io/"
+  title: "Artificial Intelligence and digital humanities encounters around history of arts, history of sciences and language analysis"
+  abstract: "Introductory and methodological session on the themes of the seminars."
   slides: nothing
   video: nothing

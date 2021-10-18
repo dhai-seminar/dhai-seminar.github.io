@@ -1,10 +1,11 @@
-- speaker: "The whole DHAI team "
-  date: October 12, 2021
-  time: 12:00-14:00
-  room: "ENS Center for Data Sciences, stair B, 3rd floor + online <a href='https://us02web.zoom.us/j/9077182794'>via zoom</a>"
-  affiliation: "DHAI"
+- speaker: "Mylène Maignant, Tristan Dot, Nicolas Gonthier, Lucence Ing"
+  date: "9 November 2021"
+  time: "12:00-14:00"
+  room: "ENS Center for Data Sciences, 45 rue d'Ulm, 3rd floor via stairway B + online via Zoom"
+  affiliation: "various affiliations"
   url: "https://dhai-seminar.github.io/"
-  title: "Artificial Intelligence and digital humanities encounters around history of arts, history of sciences and language analysis"
-  abstract: "Introductory and methodological session on the themes of the seminars."
+  title: "Title forthcoming"
+  abstract: "Presentations on four early-stage projects in Natural Language Processing, Image Processing for art history, and Handwritten Text Recognition - details forthcoming."
   slides: nothing
   video: nothing
+  

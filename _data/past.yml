@@ -1,5 +1,15 @@
 
-
+- speaker: "Léa Saint-Raymond (ENS-PSL), Thierry Poibeau (ENS-PSL), Mathieu Aubry (École de Ponts ParisTech), Matthieu Husson (Observatoire de Paris-PSL)"
+  date: "12 October 2021"
+  time: "12:00-14:00"
+  room: "ENS Center for Data Sciences, stair B, 3rd floor + online <a href='https://us02web.zoom.us/j/9077182794'>via zoom</a>"
+  affiliation: "DHAI"
+  url: "https://dhai-seminar.github.io"
+  title: "Artificial Intelligence and digital humanities encounters around history of arts, history of sciences and language analysis"
+  abstract: "Introductory and methodological session on the themes of the seminars."
+  slides: nothing
+  video: nothing
+  
 - speaker: "Pablo Gervas"
   date: June 8, 2021
   time: 12:00-14:00

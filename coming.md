@@ -5,4 +5,4 @@ description: "Visit ENS"
 header-img: "img/ens-view.jpg"
 ---
 
-Most of the seminar takes place in [the Salle des Actes](http://diplome.di.ens.fr/Plan_45ULM_1ER.pdf), at 45 rue d'Ulm, 75005 Paris (1st floor).
+Most meetings of the seminar take place in the <a href="https://csd.ens.psl.eu">Center for Data Sciences (Centre Sciences des Données)</a> at the École Normale Supérieure, 45 rue d’Ulm, 75005 Paris - 3rd floor between stairways B & C.

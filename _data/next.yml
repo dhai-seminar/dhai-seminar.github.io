@@ -29,7 +29,7 @@ The aim of the PhD research we will present is to find what factors could explai
   room: "ENS - Center for Data Sciences (Centre Sciences des Données), 45 rue d’Ulm, 75005 Paris - 3rd floor between stairways B & C + online via Zoom"
   affiliation: "Max Planck Institute for the History of Science, Berlin"
   url: "https://sphaera.mpiwg-berlin.mpg.de"
-  title: "The Visual Apparatus of the <i>Sphaera</i> Corpus"
+  title: "The Visual Apparatus of the Sphaera Corpus"
   abstract: "The <i>Sphaera</i> Corpus comprises 359 editions of early modern textbooks on geocentric cosmology. In our presentation we will focus on the visual apparatus of these books, in particular the scientific illustrations (ca. 20.000) contained therein. We present and discuss the deep learning methods by means of which we have been able to extract the illustrations and to analyze them for similarity. This computational analysis is instrumental in our historical research concerned with the evolution of a specific scientific visual language in the early modern period. We in particular aim to achieve a better understanding of the past uses of scientific illustrations as well as of the different ways in which cosmological content was understood, applied, taught, and socially conceived in the early modern period."
   slides: nothing
   video: nothing

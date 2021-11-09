@@ -7,17 +7,17 @@
   title: "[see below]"
   abstract: "<br/>
 
-<b>Mylène Maignant (Ecole Normale Supérieure – PSL):</b> <i>When Data Science Meets Theatre Studies</i><br/>
-Based on a corpus of more than 40 000 English theatre reviews going from 2010 to 2020, this presentation aims to present how Information Technology can help explore London theatre criticism from a digital perspective. Machine learning techniques, sentiment analysis and GIS will be explored to show how two opposite fields can supplement each other.<br/>
-
-<b>Tristan Dot (Research Engineer, Observatoire de Paris – PSL):</b> <i>Automatic table transcription in manuscripts</i><br/>
-Using recent Deep Learning methods, combining image segmentation and Handwritten Text Recognition, it is possible to automatically transcribe whole tables from historical documents - i.e. to recognize the tables’ structure, and to transcribe the content of their cells. We will present such a table transcription method, and discuss its applications in the particular case of medieval astronomical tables analysis.<br/>
-
 <b>Nicolas Gonthier (Imagine team – LIGM lab, École des Ponts ParisTech):</b> <i>Deep Learning for Art Analysis : Classification and Detection</i><br/>
 In this talk, we study the transfer of Convolutional Neural Networks (CNN) trained on natural images to visual recognition in artworks. First, we focus on transfer learning of CNN for artistic image classification. We use feature visualization techniques to highlight some characteristics of the impact of the transfer on the CNN. Another possibility is to transfer a CNN trained for object detection by providing the spatial localization of the objects within images.<br/>
 
+<b>Mylène Maignant (Ecole Normale Supérieure – PSL):</b> <i>When Data Science Meets Theatre Studies</i><br/>
+Based on a corpus of more than 40 000 English theatre reviews going from 2010 to 2020, this presentation aims to present how Information Technology can help explore London theatre criticism from a digital perspective. Machine learning techniques, sentiment analysis and GIS will be explored to show how two opposite fields can supplement each other.<br/>
+
 <b>Lucence Ing (Centre Jean Mabillon, Ecole des chartes – PSL):</b> <i>Words Obsolescence in medieval French : A digital approach on a small corpus</i><br/>
 The aim of the PhD research we will present is to find what factors could explain the loss of words from the 13th century to the 15th century in medieval French. This study is based on two witnesses of one text, the prose <i>Lancelot</i> — a famous Arthurian romance composed in the 1230's. After the ocerisation of the witnesses, the text is structured in XML/TEI and enriched with linguistic annotation, produced by a deep-learning model. The obtained lemmas are used to automatically align the texts, which enables to observe similar contexts in both witnesses and thus the evolution of words. Other computational methods are used to try to outline their semantic evolution.<br/>
+
+<b>Tristan Dot (Research Engineer, Observatoire de Paris – PSL):</b> <i>Automatic table transcription in manuscripts</i><br/>
+Using recent Deep Learning methods, combining image segmentation and Handwritten Text Recognition, it is possible to automatically transcribe whole tables from historical documents - i.e. to recognize the tables’ structure, and to transcribe the content of their cells. We will present such a table transcription method, and discuss its applications in the particular case of medieval astronomical tables analysis.<br/>
 "
   slides: nothing
   video: nothing

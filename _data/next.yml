@@ -36,7 +36,8 @@ OTMedia is a software platform dedicated to research projects that can analyze v
 <b>Christophe SPAENJERS (HEC Paris) :</b> <i>Biased Auctioneers (with Mathieu Aubry, Roman Kräussl, and Gustavo Manso)</i><br/>
 We construct a neural network algorithm that generates price predictions for art at auction, relying on both visual and non-visual object characteristics. We find that higher automated valuations relative to auction house pre-sale estimates are associated with substantially higher price-to-estimate ratios and lower buy-in rates, pointing to estimates’ informational inefficiency. The relative contribution of machine learning is higher for artists with less dispersed and lower average prices. Furthermore, we show that auctioneers’ prediction errors are persistent both at the artist and at the auction house level, and hence directly predictable themselves using information on past errors.
 <br/>
-<b>Armin POURNAKI (Max Planck Institute for Mathematics in the Sciences):</b> <i>abstract forthcoming</i>"
+<b>Armin POURNAKI (Max Planck Institute for Mathematics in the Sciences):</b> <i>Analysing discourse and semantics through geometrical representations</i>"<br/>
+I will present some results from my ongoing PhD research, where I use mathematical tools to model discursive and semantic spaces in order to gain insights into the mechanisms behind the construction of meaning. We combine methods from network science and natural language processing for discourse analysis on a corpus from Reddit on the topic of climate change. Activists and climate change deniers each have their own subreddit, which we analyze as distinct discursive spheres that reveal strong differences in terms of organisation and knowledge spreading."
   slides: nothing
   video: nothing
   

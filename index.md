@@ -53,11 +53,13 @@ Scientific Committee
 - [Segolene Albouy](https://github.com/Segolene-Albouy)
 - [Mathieu Aubry](http://imagine.enpc.fr/~aubrym/)
 - [Jean-Baptiste Camps](http://www.chartes.psl.eu/fr/jean-baptiste-camps)
+- [Nicolas Gonthier](https://scholar.google.fr/citations?user=y6a-lk0AAAAJ)
 - [Matthieu Husson](https://syrte.obspm.fr/spip/science/histoire/membres-de-l-equipe/article/matthieu-husson)
 - [Béatrice Joyeux-Prunel](https://artlas.huma-num.fr/en/staff-member/beatrice-joyeux-prunel-2/)
 - [Gabriel Peyré](http://www.gpeyre.com)
 - [Thierry Poibeau](https://www.lattice.cnrs.fr/membres/direction/thierry-poibeau/)
 - [Léa Saint-Raymond](https://u-paris10.academia.edu/LéaSaintRaymond)
+- [Scott Trigg](https://dishas.obspm.fr/team)
 
 
 Supported by

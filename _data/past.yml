@@ -1,3 +1,19 @@
+- speaker: "<a href='https://larevuedesmedias.ina.fr/auteurs/david-doukhan'>David Doukhan</a> and <a href='https://larevuedesmedias.ina.fr/user/452'>Nicolas Hervé</a>"
+  date: "11 January 2022"
+  time: "12:00-14:00"
+  room: "Online via Zoom"
+  affiliation: "INA – Institut National de l'Audiovisuel"
+  url: 
+  title: "[see below]"
+  abstract: "<br/>
+<b>David DOUKHAN :</b> <i>Gender Equality Monitor Project (GEM)</i><br/>
+GEM project aims to describe representation and treatment differences existing between women and men in the French-language media such as TV and radio. Automatic and semi-automatic multimodal methods are proposed to extract information from large collections of documents : speech-time, facial exposition time, OCR and automatic transcription analysis. In this presentation, we will present the methods designed for the project, together with the results obtained on large amount of data.
+<br/>
+<b>Nicolas HERVÉ :</b> <i>The French Transmedia News Observatory (OTMedia)</i><br/>
+OTMedia is a software platform dedicated to research projects that can analyze vast quantities of diverse, multimodal, transmedia data (television, radio, Web, press agencies, Twitter feeds) linked to French and French-language news. The main purpose is to achieve quantitative transdisciplinary research between Human and Social Science and Computer Science. We will present the methodology and results of three different works : Social Media and Newsroom Production Decisions, Covid19 media coverage during the first 6 months, videos of police violence : link between Twitter and television."
+  slides: nothing
+  video: nothing
+  
 - speaker: "Matteo Valleriani, Jochen Büttner, Noga Shlomi, and Hassan El-Hajj"
   date: "7 December 2021"
   time: "12:15-14:00"

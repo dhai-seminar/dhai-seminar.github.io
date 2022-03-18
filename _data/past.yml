@@ -1,3 +1,13 @@
+- speaker: "Cyran Aouameur"
+  date: "8 March 2022"
+  time: "12:00-13:30"
+  room: "ENS - Center for Data Sciences (Centre Sciences des Données), 45 rue d’Ulm, 75005 Paris"
+  affiliation: "Sony CSL Paris"
+  url: "https://www.csl.sony.fr"
+  title: "Sony CSL Music Team: AI for Artists"
+  abstract: "The music team in Sony CSL Paris investigates how A.I. can be beneficial for artists’ creativity. We research and develop proofs of concept and prototypes aiming at showing that A.I., if well used, can actually benefit artists and creators rather than replacing them. As an introduction to the way music is processed in data-driven approaches such as machine learning, we will start presenting a bit of the story of music representation, highlighting the interplay that exists between the musical content and the way humans formalize music. Then, we will dive into generative modeling for music creation, showcasing some of our latest research work as well as some interface development work. Finally, we will discuss new opportunities offered by AI, especially regarding the human-machine interface."
+  slides: nothing
+  video: nothing
   
 - speaker: "<a href='https://sites.google.com/view/christophe-spaenjers'>Christophe Spaenjers</a> and <a href='https://pournaki.com'>Armin Pournaki</a>"
   date: "1 February 2022"

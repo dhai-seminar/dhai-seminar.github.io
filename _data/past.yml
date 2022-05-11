@@ -1,3 +1,22 @@
+- speaker: "<a href='https://lme.tf.fau.de/person/christlein/'>Vincent Christlein</a> and <a href='https://profile.benoitseguin.net'>Benoit Seguin</a>"
+  date: "10 May 2022"
+  time: "12:00-14:00"
+  room: "ENS - Center for Data Sciences (Centre Sciences des Données), 45 rue d’Ulm, 75005 Paris"
+  affiliation: ""
+  url: 
+  title: "[see below]"
+  abstract: "<br/>
+<b>Vincent CHRISTLEIN :</b> <i>Machine Learning for the Analysis of Artworks and Historical Documents</i><br/>
+In recent years, a mass digitization of document images and artworks has taken place. In many cases, this makes an exhaustive search and traveling to archives/museums unnecessary but shifts the problem to the online domain. Automatic or semi-automatic methods make it possible to search, process, and analyze this big data in new ways. For example, the historian can get estimates of different document attributes, such as the dominant script type, the date, or the potential writer. These are related to different machine learning tasks: document classification, regression and retrieval. Similarly, in visual artwork analyses, image or object retrieval may relate different artworks to each other. This talk gives an overview over several computational humanities methods developed at the pattern recognition lab focusing on retrieval tasks.<br/>
+<b>Vincent Christlein</b> studied Computer Science, graduated in 2012 and received his PhD (Dr.-Ing.) in 2018 from the Friedrich-Alexander University of Erlangen-Nürnberg (FAU), Germany. During his studies, he worked on automatic handwriting analysis with focus on writer identification and writer retrieval. Since 2018, he has been working as a research associate at the Pattern Recognition Lab (FAU) and was promoted to Academic Councilor in 2020. He heads the Computer Vision group, which covers a wide variance of topics, e.g. environmental projects such as glacier segmentation or solar cell crack recognition, but also computational humanities topics, such as document and art analysis.
+<br/>
+<b>Benoit SEGUIN :</b> <i>Beyond the Proof-of-Concept - DHAI Methods in the Real World</i><br/>
+In the space of Digital Humanities, Computational Methods are always used in an applied setting, driven by research questions. However, converting these research results into useful tools for researchers unfortunately rarely happens. By taking a step back on different projects I took part in as an independent engineer (large photo-archives analysis, art market price estimation, <a href='https://graph-rare-books.ethz.ch'>visualisation of text-reuse in architecture treatises</a>, ...), I will try to highlight the divide between research interest and end-user interest, and come up with advice on integrating modern ML in DH projects.<br/>
+<b>Benoit Seguin</b> studied Computer Science at École Polytechnique in Paris. After completing his PhD at EPFL in 2018, where he used Deep Learning to track visual transmissions in large iconographical collections, he has been working as an independent expert on applying Machine Learning to Cultural Heritage data for institutions such as the Getty Research Institue or the ETH Library. Recently, he also has been working on an entrepreneurial project <a href='https://artbeat.ai'>ArtBeat.ai</a>, looking to analyze and organize information about the Art Market."
+  slides: nothing
+  video: nothing
+
+
 - speaker: "Cyran Aouameur"
   date: "8 March 2022"
   time: "12:00-13:30"

@@ -28,21 +28,28 @@ In the space of Digital Humanities, Computational Methods are always used in an 
   slides: nothing
   video: nothing
   
-- speaker: "<a href='https://sites.google.com/view/christophe-spaenjers'>Christophe Spaenjers</a> and <a href='https://pournaki.com'>Armin Pournaki</a>"
+- speaker: "<a href='https://sites.google.com/view/christophe-spaenjers'>Christophe Spaenjers</a>"
   date: "1 February 2022"
   time: "12:00-14:00"
   room: "Zoom only - register for the DHAI mailing list to receive link"
-  affiliation: ""
+  affiliation: "HEC Paris"
   url: 
-  title: "[see below]"
-  abstract: "<br/>
-<b>Christophe SPAENJERS (HEC Paris) :</b> <i>Biased Auctioneers (with Mathieu Aubry, Roman Kräussl, and Gustavo Manso)</i><br/>
-We construct a neural network algorithm that generates price predictions for art at auction, relying on both visual and non-visual object characteristics. We find that higher automated valuations relative to auction house pre-sale estimates are associated with substantially higher price-to-estimate ratios and lower buy-in rates, pointing to estimates’ informational inefficiency. The relative contribution of machine learning is higher for artists with less dispersed and lower average prices. Furthermore, we show that auctioneers’ prediction errors are persistent both at the artist and at the auction house level, and hence directly predictable themselves using information on past errors.
-<br/>
-<b>Armin POURNAKI (Max Planck Institute for Mathematics in the Sciences):</b> <i>Analysing discourse and semantics through geometrical representations</i><br/>
-I will present some results from my ongoing PhD research, where I use mathematical tools to model discursive and semantic spaces in order to gain insights into the mechanisms behind the construction of meaning. We combine methods from network science and natural language processing for discourse analysis on a corpus from Reddit on the topic of climate change. Activists and climate change deniers each have their own subreddit, which we analyze as distinct discursive spheres that reveal strong differences in terms of organisation and knowledge spreading."
+  title: "Biased Auctioneers (with Mathieu Aubry, Roman Kräussl, and Gustavo Manso)"
+  abstract: "We construct a neural network algorithm that generates price predictions for art at auction, relying on both visual and non-visual object characteristics. We find that higher automated valuations relative to auction house pre-sale estimates are associated with substantially higher price-to-estimate ratios and lower buy-in rates, pointing to estimates’ informational inefficiency. The relative contribution of machine learning is higher for artists with less dispersed and lower average prices. Furthermore, we show that auctioneers’ prediction errors are persistent both at the artist and at the auction house level, and hence directly predictable themselves using information on past errors."
   slides: nothing
-  video: nothing
+  video: "https://savoirs.ens.fr/expose.php?id=4092"
+  
+ 
+ - speaker: "<a href='https://pournaki.com'>Armin Pournaki</a>"
+  date: "1 February 2022"
+  time: "12:00-14:00"
+  room: "Zoom only - register for the DHAI mailing list to receive link"
+  affiliation: "Max Planck Institute for Mathematics in the Sciences"
+  url: 
+  title: "Analysing discourse and semantics through geometrical representations"
+  abstract: "I will present some results from my ongoing PhD research, where I use mathematical tools to model discursive and semantic spaces in order to gain insights into the mechanisms behind the construction of meaning. We combine methods from network science and natural language processing for discourse analysis on a corpus from Reddit on the topic of climate change. Activists and climate change deniers each have their own subreddit, which we analyze as distinct discursive spheres that reveal strong differences in terms of organisation and knowledge spreading."
+  slides: nothing
+  video: "https://savoirs.ens.fr/expose.php?id=4093"
   
 - speaker: "<a href='https://larevuedesmedias.ina.fr/auteurs/david-doukhan'>David Doukhan</a> and <a href='https://larevuedesmedias.ina.fr/user/452'>Nicolas Hervé</a>"
   date: "11 January 2022"

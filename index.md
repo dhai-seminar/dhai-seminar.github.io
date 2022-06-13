@@ -27,8 +27,8 @@ The tentative dates for the 2022-23 academic year are:<br/>
 October 4<br/>
 November 8<br/>
 December 6<br/>
-Jan 10<br/>
-Feb 7<br/>
+January 10<br/>
+February 7<br/>
 March 7<br/>
 April 4<br/>
 May 9<br/>

@@ -23,6 +23,18 @@ The ambition of this seminar is to be one of the places where this coupling is s
 Next seminars
 ===========================
 
+The tentative dates for the 2022-23 academic year are
+October 4
+November 8
+December 6
+Jan 10
+Feb 7
+March 7
+April 4
+May 9
+June 6
+
+
 
 {% for oneitem in site.data.next %}
 <p>

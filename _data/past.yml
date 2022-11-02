@@ -1,4 +1,15 @@
-
+- speaker: "<a href='https://www.chartes.psl.eu/fr/jean-baptiste-camps'>Jean-Baptiste CAMPS</a> (École nationale des chartes) and <a href='https://medialab.sciencespo.fr/equipe/florian-cafiero/'>Florian CAFIERO</a>"
+  date: "4 October 2022"
+  time: "12:00-14:00"
+  room: "ENS - Center for Data Sciences (Centre Sciences des Données), 45 rue d’Ulm, 75005 Paris - 3rd floor between stairways B & C and <a href='https://cnrs.zoom.us/j/96358342516?pwd=eFh6UmtFZDRXSDhEMW5KZGRRSWNTdz09'>online via Zoom</a>"
+  affiliation: "SciencesPo"
+  url: 
+  title: "Affairs of Styles: Working with AI to Solve Mysterious Attributions"
+  abstract: "Who wrote the Bible ? Did Shakespeare or Molière author their plays ? Who hides behind the pseudonym Elena Ferrante ? And can we identify a unique fingerprint in the writings of an individual, something critics call 'literary style' and linguists 'idiolect' ? <br/>
+More and more accurate answers to century-old historical controversies or contemporary enigmas are being formulated by specialists of “authorship attribution” and “stylometry”, a domain at the intersection of statistics, artificial intelligence, philology and forensic linguistics. By taking a deep look into the mathematical properties of someone’s language, they can help identify the author of a text, no matter its nature. Lyric or epic poetry, ransom letters, social media posts… : all of these give a large number of clues on their authors, betrayed by their use of hardly noticeable details (function words, suffixes…) and more generally, by complex patterns in their language. In this presentation, we will tell how this discipline grew during the past 150 years, and will draw over some of the cases presented in our recent book (<i>Affaires de style</i>, Paris, 2022) and from our research on stylometry for ancient texts, from the Troubadours to Molière, or more contemporary material, as in our recent article on the authors behind QAnon’s infamous “Q”, with the New York Times."
+  slides: nothing
+  video: nothing
+  
 - speaker: "<a href='https://sandrabree.weebly.com'>Sandra Brée</a> and <a href='https://pagesperso.litislab.fr/tpaquet/'>Thierry Paquet</a>"
   date: "7 June 2022"
   time: "12:00-14:00"

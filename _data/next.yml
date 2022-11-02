@@ -1,12 +1,23 @@
 
-- speaker: "<a href='https://www.chartes.psl.eu/fr/jean-baptiste-camps'>Jean-Baptiste CAMPS</a> (École nationale des chartes) and <a href='https://medialab.sciencespo.fr/equipe/florian-cafiero/'>Florian CAFIERO</a>"
-  date: "4 October 2022"
-  time: "12:00-14:00"
-  room: "ENS - Center for Data Sciences (Centre Sciences des Données), 45 rue d’Ulm, 75005 Paris - 3rd floor between stairways B & C and online via Zoom"
-  affiliation: "SciencesPo"
+- speaker: "Clotilde BOUST et Claire PACHECO"
+  date: "8 November 2022"
+  time: "12h-14h"
+  room: "Centre Sciences des Données, ENS, 45 rue d’Ulm, 75005 Paris"
+  affiliation: "C2RMF"
+  url: "https://c2rmf.fr"
+  title: "Data Production and Analysis at C2RMF"
+  abstract: "<i>Le Centre de recherche et de restauration des musées de France</i> (C2RMF) is a national center inside the Ministry of Culture, devoted to analyse and conserve artworks from French museums. The research department is doing and developing optical and chemical analysis. Several analyses are necessary to understand those complex objects, and can lead to huge volumes of data. We will present the work made by the imaging group and the particle accelerator group, with latest developments on data analysis and questions to solve."
+  slides: nothing
+  video: nothing
+
+  
+- speaker: "<a href='https://www.minesparis.psl.eu/Services/Annuaire/sofiane-horache'>Sofiane Horache</a> (Mines ParisTech) et <a href='http://www.archeo.ens.fr/Gruel-Katherine-English-version.html?lang=fr'>Katherine Gruel</a>"
+  date: "6 December 2022"
+  time: "12h-14h"
+  room: "Centre Sciences des Données, ENS, 45 rue d’Ulm, 75005 Paris"
+  affiliation: "ENS"
   url: 
-  title: "Affairs of Styles: Working with AI to Solve Mysterious Attributions"
-  abstract: "Who wrote the Bible ? Did Shakespeare or Molière author their plays ? Who hides behind the pseudonym Elena Ferrante ? And can we identify a unique fingerprint in the writings of an individual, something critics call 'literary style' and linguists 'idiolect' ? <br/>
-More and more accurate answers to century-old historical controversies or contemporary enigmas are being formulated by specialists of “authorship attribution” and “stylometry”, a domain at the intersection of statistics, artificial intelligence, philology and forensic linguistics. By taking a deep look into the mathematical properties of someone’s language, they can help identify the author of a text, no matter its nature. Lyric or epic poetry, ransom letters, social media posts… : all of these give a large number of clues on their authors, betrayed by their use of hardly noticeable details (function words, suffixes…) and more generally, by complex patterns in their language. In this presentation, we will tell how this discipline grew during the past 150 years, and will draw over some of the cases presented in our recent book (<i>Affaires de style</i>, Paris, 2022) and from our research on stylometry for ancient texts, from the Troubadours to Molière, or more contemporary material, as in our recent article on the authors behind QAnon’s infamous “Q”, with the New York Times."
+  title: "Recognition and Clustering of Ancient Coins"
+  abstract: "Clustering coins according to their die is a problem that has many applications in numismatics. This clustering is crucial for understanding the economic history of tribes (especially for tribes for whom few written records exist, such as the Celts). It is a difficult task, requiring a lot of times and expertises. However, there is very little work that has been done on coin die identification. This presentation will present an automatic tool to know if two patterns have been impressed with the same tool, especially to know if two coins have been struck with the same die. Based on deep learning-based registration algorithms, the proposed method has allowed us to classify a hoard of a thousand Riedone coins dating from the 2nd century BC. This treasure allowed us to build an annotated dataset of 3D acquisitions called Riedones3D. Riedones3D is useful for Celtic coin specialists, but also for the computer vision community to develop new coin die recognition algorithms. Rigorous evaluations on Riedones3D and on other Celtic works show the interest of the proposed method. "
   slides: nothing
   video: nothing

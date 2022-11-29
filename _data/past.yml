@@ -1,3 +1,15 @@
+
+- speaker: "Clotilde BOUST et Claire PACHECO"
+  date: "8 November 2022"
+  time: "12h-14h"
+  room: "Centre Sciences des Données, ENS, 45 rue d’Ulm, 75005 Paris (3rd floor between stairways B & C) or <a href='https://docs.google.com/forms/d/e/1FAIpQLSdQPssRAUxsw2ixoO0LtEXwLtgTpXtNCI9oUSDmQOv2HV5EVg/viewform?usp=sf_link'>register to receive Zoom link</a>"
+  affiliation: "C2RMF"
+  url: "https://c2rmf.fr"
+  title: "Data Production and Analysis at C2RMF"
+  abstract: "<i>Le Centre de recherche et de restauration des musées de France</i> (C2RMF) is a national center inside the Ministry of Culture, devoted to analyse and conserve artworks from French museums. The research department is doing and developing optical and chemical analysis. Several analyses are necessary to understand those complex objects, and can lead to huge volumes of data. We will present the work made by the imaging group and the particle accelerator group, with latest developments on data analysis and questions to solve."
+  slides: nothing
+  video: nothing
+
 - speaker: "<a href='https://www.chartes.psl.eu/fr/jean-baptiste-camps'>Jean-Baptiste CAMPS</a> (École nationale des chartes) and <a href='https://medialab.sciencespo.fr/equipe/florian-cafiero/'>Florian CAFIERO</a>"
   date: "4 October 2022"
   time: "12:00-14:00"

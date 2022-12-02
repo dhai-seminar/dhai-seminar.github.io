@@ -6,7 +6,7 @@
   room: "Centre Sciences des Données, ENS, 45 rue d’Ulm, 75005 Paris (3rd floor between stairways B & C) or <a href='https://docs.google.com/forms/d/e/1FAIpQLSdQPssRAUxsw2ixoO0LtEXwLtgTpXtNCI9oUSDmQOv2HV5EVg/viewform?usp=sf_link'>register to receive Zoom link</a>"
   affiliation: "ENS"
   url: 
-  title: "Recognition and Clustering of Ancient Coins"
+  title: "<a href='../slides/2022-12-06-Horache-Gruel.jpg'>Recognition and Clustering of Ancient Coins</a>"
   abstract: "Clustering coins according to their die is a problem that has many applications in numismatics. This clustering is crucial for understanding the economic history of tribes (especially for tribes for whom few written records exist, such as the Celts). It is a difficult task, requiring a lot of times and expertises. However, there is very little work that has been done on coin die identification. This presentation will present an automatic tool to know if two patterns have been impressed with the same tool, especially to know if two coins have been struck with the same die. Based on deep learning-based registration algorithms, the proposed method has allowed us to classify a hoard of a thousand Riedone coins dating from the 2nd century BC. This treasure allowed us to build an annotated dataset of 3D acquisitions called Riedones3D. Riedones3D is useful for Celtic coin specialists, but also for the computer vision community to develop new coin die recognition algorithms. Rigorous evaluations on Riedones3D and on other Celtic works show the interest of the proposed method. "
-  slides: nothing
+  slides: "2022-12-06-Horache-Gruel.jpg"
   video: nothing

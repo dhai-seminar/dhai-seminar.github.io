@@ -1,13 +1,19 @@
 
 
-- speaker: "Thea Sommerschield, ITHACA Project"
-  date: "10 January 2023"
+- speaker: "<a href='https://scholar.google.com/citations?user=AZjNurMAAAAJ&hl=fr'>Mélodie Boillet</a> (LITIS, Teklia) et <a href='https://www.irht.cnrs.fr/fr/annuaire/stutzmann-dominique'>Dominique Stutzmann</a>"
+  date: "7 February 2023"
   time: "12h-14h"
   room: "Centre Sciences des Données, ENS, 45 rue d’Ulm, 75005 Paris (3rd floor between stairways B & C) or <a href='https://docs.google.com/forms/d/e/1FAIpQLSdQPssRAUxsw2ixoO0LtEXwLtgTpXtNCI9oUSDmQOv2HV5EVg/viewform?usp=sf_link'>register to receive Zoom link</a>"
-  affiliation: "Ca’ Foscari University of Venice"
-  url: "https://theasommerschield.it"
-  title: "Restoring, dating and placing Greek inscriptions with machine learning: the Ithaca project"
-  abstract: "Ithaca is the first deep neural network for the textual restoration, geographical attribution and chronological attribution of ancient Greek inscriptions. This AI model is designed to assist and expand the historian’s workflow, focusing on collaboration, decision support and interpretability. In this presentation, I will introduce Ithaca and guide you through the model's architecture, design decisions and visualisation aids. I will also offer a demo of how to use Ithaca for your personal research.<br>
-<b>Bio:</b> Thea Sommerschield is a Marie Skłodowska-Curie fellow at Ca’ Foscari University of Venice. Her research uses machine learning to study the epigraphic cultures of the ancient Mediterranean world. Since obtaining her DPhil in Ancient History (University of Oxford), she has been the Ralegh Radford Rome Awardee at the British School at Rome, Fellow in Hellenic Studies at Harvard’s CHS and Research Innovator at Google Cloud. She co-led the Pythia (2019) and Ithaca (2022) projects, and has worked extensively on Sicilian epigraphy."
+  affiliation: "IRHT-CNRS"
+  url: ""
+  title: "Texts as images. Collaborating and training models for manuscript studies from layout segmentation to text recognition and to historical analysis"
+  abstract: "For some years now, the analysis of medieval written sources has been greatly changed by the application of digital methods, especially image processing through artificial intelligence or machine learning. Access to texts has been fundamentally expanded by methods such as full-text indexing, automatic text recognition (Handwritten Text Recognition) and text-mining tools such as Named Entity Recognition, stylometry or the identification of textual adoptions (Text Reuse Detection). At the interface between computer vision and digital images of text sources, other fields of research have also developed, such as the analysis of layout and mise-en-page or the exploration of writing as an image from scribe identification to script classification.
+<br>
+In this presentation, we will discuss the methodology and the results of two interdisciplinary research projects funded by national and European institutions: HORAE - Hours: Recognition, Analysis, Edition (ANR-17-CE38-0008) and HOME - History of Medieval Europe (JPI-CH Cultural Heritage). HORAE enquires the production and circulation of books of hours - a complex type of prayer books - in the late Middle Ages and HOME addressed the constitution of registers and cartularies containing copies of legal documents.
+<br>
+We will present how different actors worked together for the study of manuscripts, aligning research historical questions with technical ones, with partners joining from different disciplines (Humanities, NLP, computer vision and machine learning) and from the public and private sectors. Then, we will present specific models for document object detection (Doc-UFCN) and text recognition (PyLaia) and discuss the next steps in the historical analysis and in further research projects (Socface).<br>
+<b>Bio:</b> Mélodie Boillet studied data science and is specialized in machine learning and computer vision. She completed her PhD in January 2023, carried out in collaboration between the University of Rouen-Normandy (LITIS) and the company Teklia. Her works focused on deep learning methods to detect objects from document images. They have been developed, among others, within the HORAE and HOME projects, and applied to many other automatic document processing projects.
+<br>
+Dominique Stutzmann studied history at the university Paris 1 - Sorbonne (PhD 2009), the Ecole nationale des Chartes and the EPHE-PSL (habiliation 2021). He is a research professor (directeur de recherche) with the CNRS and honorar professor at the Humboldt University in Berlin. He was the PI of the HOME and HORAE projects. His work focusses on scribal cultures in religious communities of the Middle Ages and the implementation of computer vision for the study of medieval handwritings and texts."
   slides: nothing
   video: nothing

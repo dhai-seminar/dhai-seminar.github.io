@@ -1,3 +1,15 @@
+- speaker: "Thea Sommerschield, ITHACA Project"
+  date: "10 January 2023"
+  time: "12h-14h"
+  room: "Centre Sciences des Données, ENS, 45 rue d’Ulm, 75005 Paris (3rd floor between stairways B & C)"
+  affiliation: "Ca’ Foscari University of Venice"
+  url: "https://theasommerschield.it"
+  title: "Restoring, dating and placing Greek inscriptions with machine learning: the Ithaca project"
+  abstract: "Ithaca is the first deep neural network for the textual restoration, geographical attribution and chronological attribution of ancient Greek inscriptions. This AI model is designed to assist and expand the historian’s workflow, focusing on collaboration, decision support and interpretability. In this presentation, I will introduce Ithaca and guide you through the model's architecture, design decisions and visualisation aids. I will also offer a demo of how to use Ithaca for your personal research.<br>
+<b>Bio:</b> Thea Sommerschield is a Marie Skłodowska-Curie fellow at Ca’ Foscari University of Venice. Her research uses machine learning to study the epigraphic cultures of the ancient Mediterranean world. Since obtaining her DPhil in Ancient History (University of Oxford), she has been the Ralegh Radford Rome Awardee at the British School at Rome, Fellow in Hellenic Studies at Harvard’s CHS and Research Innovator at Google Cloud. She co-led the Pythia (2019) and Ithaca (2022) projects, and has worked extensively on Sicilian epigraphy."
+  slides: nothing
+  video: nothing
+  
 - speaker: "<a href='https://www.minesparis.psl.eu/Services/Annuaire/sofiane-horache'>Sofiane Horache</a> (Mines ParisTech) et <a href='http://www.archeo.ens.fr/Gruel-Katherine-English-version.html?lang=fr'>Katherine Gruel</a>"
   date: "6 December 2022"
   time: "12h-14h"

@@ -56,7 +56,7 @@ You can access [here the list of past seminars](../past/).
 Mailing list
 ===========================
 
-You can [subscribe to the mailing list from here](https://docs.google.com/forms/d/e/1FAIpQLSdQPssRAUxsw2ixoO0LtEXwLtgTpXtNCI9oUSDmQOv2HV5EVg/viewform?usp=sf_link), in order to receive the announcements of the seminars.
+You can [subscribe to the mailing list from here](https://listes.services.cnrs.fr/wws/subscribe/dhai-seminaire?previous_action=info), in order to receive the announcements of the seminars.
 
 
 Scientific Committee

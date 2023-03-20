@@ -23,13 +23,7 @@ The ambition of this seminar is to be one of the places where this coupling is s
 Next seminars
 ===========================
 
-The dates for the 2022-23 academic year are:<br/>
-October 4,
-November 8,
-December 6,
-January 10,
-February 7,
-March 7,
+The remaining dates for the 2022-23 academic year are:<br/>
 April 4,
 May 9, and
 June 6.

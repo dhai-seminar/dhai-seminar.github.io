@@ -24,7 +24,6 @@ Next seminars
 ===========================
 
 The remaining dates for the 2022-23 academic year are:<br/>
-April 4,
 May 9, and
 June 6.
 

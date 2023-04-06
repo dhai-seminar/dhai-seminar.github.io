@@ -1,17 +1,4 @@
 
-
-- speaker: "Daniel Foliard with Soumik Mallick, Julien Schuh, Marina Giardinetti, and Mohamed Salim Aissi"
-  date: "4 April 2023"
-  time: "12h-14h"
-  room: "Centre Sciences des Données, ENS, 45 rue d’Ulm, 75005 Paris (3rd floor between stairways B & C) or <a href='https://listes.services.cnrs.fr/wws/subscribe/dhai-seminaire?previous_action=info'>register for the DHAI announcement list</a> to receive Zoom link"
-  affiliation: "EyCon Project"
-  url: "https://eycon.hypotheses.org/"
-  title: "Early conflict photography as data: an overview of the EyCon project"
-  abstract: "The presentation will provide an overview of a project that aims at aggregating a thematic collection focusing on early conflict photography (1890-1918). The EyCon research project is experimenting with AI techniques to augment historical enquiry and data enrichment of a large visual corpus of historical photographs. It will add automatically enriched metadata to its online database and publish a prototype for the inclusion of AI functionalities into similar repositories. The team also reflects on the ethics of showing and facilitating access to a potentially contested material. The presentation will discuss the project's perimeter, its data architecture and provide case studies of how AI can be applied to late 19th c./early 20th c. photographs."
-  slides: nothing
-  video: nothing
-
-
 - speaker: "Glenn Roe"
   date: "9 May 2023"
   time: "12h-14h"

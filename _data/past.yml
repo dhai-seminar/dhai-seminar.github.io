@@ -1,3 +1,14 @@
+- speaker: "Glenn Roe"
+  date: "9 May 2023"
+  time: "12h-14h"
+  room: "Centre Sciences des Données, ENS, 45 rue d’Ulm, 75005 Paris (3rd floor between stairways B & C) or <a href='https://listes.services.cnrs.fr/wws/subscribe/dhai-seminaire?previous_action=info'>register for the DHAI announcement list</a> to receive Zoom link"
+  affiliation: "CELLF, Sorbonne"
+  url: "https://obtic.sorbonne-universite.fr/projet/modern/"
+  title: "The ModERN Project: Modelling Enlightenment. Reassembling Networks of Modernity through data-driven research"
+  abstract: "The ERC-funded ModERN Project - <i>Modelling Enlightenment. Reassembling Networks of Modernity through data-driven research</i> – is a five-year project whose primary goal is to establish a new ‘data-driven’ literary and intellectual history of the French Enlightenment; one that is both more comprehensive and more systematic in terms of its relationship to the existing digital cultural record, and one that challenges subsequent narratives of European Modernity. To accomplish this, ModERN is deployinga unique combination of cutting-edge computational technologies, a conceptual framework that merges actor-network theory with data-driven discovery, and traditional critical and textual methods, all of which are used to scrutinise the digital archive of the Enlightenment period in France and its aftermath. Specifically, the project employs new techniques for large-scale text analysis and deep neural network language modelling developed in the digital humanities and artificial intelligence communities to identify and analyse conceptual and intertextual networks over an unprecedented collection of 18th- and 19th-century texts. In the context of the DH/AI seminar, the ModERN team will present the initial stages of the project, including corpus construction, large-scale text alignment, noise reduction using BERT and other LLMs, and preliminary network analyses. "
+  slides: nothing
+  video: nothing
+  
 - speaker: "Daniel Foliard with Soumik Mallick, Julien Schuh, Marina Giardinetti, and Mohamed Salim Aissi"
   date: "4 April 2023"
   time: "12h-14h"

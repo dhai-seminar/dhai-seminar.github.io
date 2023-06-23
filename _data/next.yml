@@ -1,4 +1,4 @@
-
+<!--
 - speaker: "David Bamman"
   date: "7 June 2023"
   time: "10h-12h"
@@ -10,3 +10,4 @@
   <b>Bio:</b> David Bamman is an associate professor in the School of Information at UC Berkeley, where he works in the areas of natural language processing and cultural analytics, applying NLP and machine learning to empirical questions in the humanities and social sciences. His research focuses on improving the performance of NLP for underserved domains like literature (including LitBank and BookNLP) and exploring the affordances of empirical methods for the study of literature and culture. Before Berkeley, he received his PhD in the School of Computer Science at Carnegie Mellon University and was a senior researcher at the Perseus Project of Tufts University. Bamman's work is supported by the National Endowment for the Humanities, National Science Foundation, the Mellon Foundation and an NSF CAREER award."
   slides: nothing
   video: nothing
+-->

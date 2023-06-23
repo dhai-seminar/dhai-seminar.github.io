@@ -23,7 +23,18 @@ The ambition of this seminar is to be one of the places where this coupling is s
 Next seminars
 ===========================
 
+Please save these dates for the 2023-2024 DHAI Seminar !
+The seminar will meet at 10h at the Centre Sciences des Données at the École Normale Supérieure unless otherwise specified.
 
+October 3
+November 7
+December 5
+January 9
+February 6
+March 5
+April 2
+May 14
+June 4
 
 
 {% for oneitem in site.data.next %}
@@ -55,13 +66,11 @@ Scientific Committee
 - [Segolene Albouy](https://github.com/Segolene-Albouy)
 - [Mathieu Aubry](http://imagine.enpc.fr/~aubrym/)
 - [Jean-Baptiste Camps](http://www.chartes.psl.eu/fr/jean-baptiste-camps)
-- [Nicolas Gonthier](https://scholar.google.fr/citations?user=y6a-lk0AAAAJ)
 - [Matthieu Husson](https://syrte.obspm.fr/spip/science/histoire/membres-de-l-equipe/article/matthieu-husson)
-- [Béatrice Joyeux-Prunel](https://artlas.huma-num.fr/en/staff-member/beatrice-joyeux-prunel-2/)
 - [Gabriel Peyré](http://www.gpeyre.com)
 - [Thierry Poibeau](https://www.lattice.cnrs.fr/membres/direction/thierry-poibeau/)
 - [Léa Saint-Raymond](https://u-paris10.academia.edu/LéaSaintRaymond)
-- [Scott Trigg](https://dishas.obspm.fr/team)
+- [Scott Trigg](https://prairie-institute.fr/chairs/trigg-scott/)
 
 
 Supported by
@@ -75,7 +84,7 @@ Supported by
 
 <br/><br/>
 
-<a href="http://www.enpc.fr/"><img height="90" src="http://www.enpc.fr/sites/all/themes/enpc/images/logo.svg"/></a>
+<a href="http://www.enpc.fr/"><img height="90" src="https://www.enpc.fr/sites/all/themes/enpc/images/logo.svg"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://prairie-institute.fr">
 <img height="60" src="img/logo-prairie.png"/></a><br/>

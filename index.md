@@ -84,7 +84,7 @@ Supported by
 
 <br/><br/>
 
-<a href="http://www.enpc.fr/"><img height="90" src="https://www.enpc.fr/sites/all/themes/enpc/images/logo.svg"/></a>
+<a href="http://www.enpc.fr/"><img height="90" src="img/enpc-logo.svg"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://prairie-institute.fr">
 <img height="60" src="img/logo-prairie.png"/></a><br/>

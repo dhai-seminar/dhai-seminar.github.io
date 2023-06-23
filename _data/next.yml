@@ -1,13 +1,2 @@
-<!--
-- speaker: "David Bamman"
-  date: "7 June 2023"
-  time: "10h-12h"
-  room: "Salle du Conseil, Observatoire de Paris, 77 ave Denfert-Rochereau - <a href='https://forms.gle/AeDzAhQuZnggxbbp9'>advance registration is required</a> by 5 June to attend in person, there will not be a Zoom link"
-  affiliation: "UC-Berkeley"
-  url: "https://people.ischool.berkeley.edu/~dbamman/"
-  title: "Measuring Representation in Culture"
-  abstract: "Much work in cultural analytics has examined questions of representation in narrative--whether through the deliberate process of watching movies or reading books and counting the people who appear on screen, or by developing algorithmic measuring devices to do so at scale. In this talk, I'll explore the use of NLP and computer vision to capture the diversity of representation in both contemporary literature and film, along with the challenges and opportunities that arise in this process. This includes not only the legal and policy challenges of working with copyrighted materials, but also in the opportunities that arise for aligning current methods in NLP with the diversity of representation we see in contemporary narrative; toward this end, I'll highlight models of referential gender that align characters in fiction with the pronouns used to describe them (he/she/they/xe/ze/etc.) rather than inferring an unknowable gender identity.<br>
-  <b>Bio:</b> David Bamman is an associate professor in the School of Information at UC Berkeley, where he works in the areas of natural language processing and cultural analytics, applying NLP and machine learning to empirical questions in the humanities and social sciences. His research focuses on improving the performance of NLP for underserved domains like literature (including LitBank and BookNLP) and exploring the affordances of empirical methods for the study of literature and culture. Before Berkeley, he received his PhD in the School of Computer Science at Carnegie Mellon University and was a senior researcher at the Perseus Project of Tufts University. Bamman's work is supported by the National Endowment for the Humanities, National Science Foundation, the Mellon Foundation and an NSF CAREER award."
-  slides: nothing
-  video: nothing
--->
+
+

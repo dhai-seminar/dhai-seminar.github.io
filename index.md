@@ -23,19 +23,7 @@ The ambition of this seminar is to be one of the places where this coupling is s
 Next seminars
 ===========================
 
-Please save these dates for the 2023-2024 DHAI Seminar ! <br/>
 The seminar will meet at 10h at the Centre Sciences des Données at the École Normale Supérieure unless otherwise specified.
-
-October 3<br/>
-November 7<br/>
-December 5<br/>
-January 9<br/>
-February 6<br/>
-March 5<br/>
-April 2<br/>
-May 14<br/>
-June 4<br/>
-
 
 {% for oneitem in site.data.next %}
 <p>

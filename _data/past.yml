@@ -1,3 +1,14 @@
+- speaker: "Mathieu Triclot"
+  date: "3 October 2023"
+  time: "10h-12h"
+  affiliation: "FEMTO-ST, Université de Technologie de Belfort-Montbéliard"
+  url: "https://www.femto-st.fr/fr/personnel-femto/mathieutriclot"
+  title: "Analyzing Video Game Player Experiences through Rhythmanalysis"
+  abstract: "In this presentation, I will introduce a method for conducting 'rhythmanalysis' of gaming sessions, involving the collection and visualization of player inputs. This approach leads to intriguing questions about the aesthetics of video games, the interplay between the images and the hand, and the relationships between the video game experience and performing arts, such as music and dance."
+  slides: nothing
+  video: nothing
+  room: "Centre Sciences des Données at the École Normale Supérieur, 45 rue d’Ulm, 75005 Paris (3rd floor between stairways B & C) or <a href='https://listes.services.cnrs.fr/wws/subscribe/dhai-seminaire?previous_action=info'>register for the DHAI announcement list</a> to receive Zoom link"
+
 - speaker: "David Bamman"
   date: "7 June 2023"
   time: "10h-12h"

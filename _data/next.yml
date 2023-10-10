@@ -21,7 +21,7 @@
   video: nothing
   room: ""
 
-- speaker: "forthcoming"
+- speaker: "tba"
   date: "9 January 2024"
   time: "10h-12h"
   affiliation: ""
@@ -37,8 +37,8 @@
   time: "10h-12h"
   affiliation: "Sorbonne Center for Artificial Intelligence"
   url: ""
-  title: "forthcoming"
-  abstract: ""
+  title: ""
+  abstract: "forthcoming"
   slides: nothing
   video: nothing
   room: "Centre Sciences des Données at the École Normale Supérieure"
@@ -54,7 +54,7 @@
   video: nothing
   room: "Centre Sciences des Données at the École Normale Supérieure"
 
-- speaker: "forthcoming"
+- speaker: "tba"
   date: "14 May 2024"
   time: "10h-12h"
   affiliation: ""
@@ -65,7 +65,7 @@
   video: nothing
   room: "Centre Sciences des Données at the École Normale Supérieure"
 
-- speaker: "forthcoming"
+- speaker: "tba"
   date: "4 June 2024"
   time: "10h-12h"
   affiliation: ""

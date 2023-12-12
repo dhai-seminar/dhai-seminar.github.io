@@ -1,25 +1,3 @@
-- speaker: "Charles de Dampierre"
-  date: "7 November 2023"
-  time: "10h-12h"
-  affiliation: "Computational Social Science, École Normale Supérieure"
-  url: "https://fr.linkedin.com/in/charles-de-dampierre-373019a5"
-  title: "BUNKA: An Exploration Engine for Understanding Large Datasets"
-  abstract: "The increasing volume of digital information presents an unprecedented opportunity for solving numerous complex problems through Collective Intelligence. Yet, existing tools fail to fully harness this potential. To address these challenges, we introduce a new software called Bunka. Bunka is an Exploration Engine designed to enhance our understanding of large datasets. It achieves this by improving the epistemic quality of information through summarization and visualization, making complex data more understandable and insightful. Its core components include mixing Semantic Frames with Topic Modeling through the use of Embeddings & LLMs. We will showcase the practical application of Bunka through real-world case studies, providing a comprehensive examination of an individual's journey toward leveraging Collective Intelligence. Our tool is available at <a href='https://github.com/charlesdedampierre/BunkaTopics'>github.com/charlesdedampierre/BunkaTopics</a>.<br>Bunka is funded by the CNRS, the Ministry of Culture and the PRAIRIE Institute."
-  slides: nothing
-  video: nothing
-  room: "Centre Sciences des Données at the École Normale Supérieure, 45 rue d’Ulm, 75005 Paris (3rd floor between stairways B & C) or <a href='https://listes.services.cnrs.fr/wws/subscribe/dhai-seminaire?previous_action=info'>register for the DHAI announcement list</a> to receive Zoom link"
-
-
-- speaker: "No seminar - you are encouraged to attend the CHR conference this week instead!"
-  date: "5 December 2023"
-  time: ""
-  affiliation: ""
-  url: "https://2023.computational-humanities-research.org"
-  title: ""
-  abstract: ""
-  slides: nothing
-  video: nothing
-  room: ""
 
 - speaker: "tba"
   date: "9 January 2024"

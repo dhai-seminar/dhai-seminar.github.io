@@ -28,7 +28,7 @@ The seminar will meet at 10h at the Centre Sciences des Données at the École N
 {% for oneitem in site.data.next %}
 <p>
   <b>Date:</b> {{ oneitem.date }}, {{ oneitem.time }}<br/> 
-  <b>Location:</b> {{ oneitem.room }}
+  <b>Location:</b> {{ oneitem.room }}<br/> 
   <b>Speaker:</b> <a href="{{ oneitem.url }}">{{ oneitem.speaker }}</a>  ({{ oneitem.affiliation }})<br/>
   <b>Title:</b> <i>{{ oneitem.title }}</i><br/>
   <b>Abstract:</b> {{ oneitem.abstract }}<br/>

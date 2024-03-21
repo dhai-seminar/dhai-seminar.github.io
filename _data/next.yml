@@ -1,23 +1,10 @@
-- speaker: "Xavier Fresquet"
-  date: "6 February 2024"
-  time: "10h-12h"
-  room: "Centre Sciences des Données at the École Normale Supérieure (3rd floor near stairway C)"
-  affiliation: "Sorbonne Center for Artificial Intelligence"
-  url: "https://scai.sorbonne-universite.fr"
-  title: "Algorithms in the Abbey: Deep Learning and Medieval Music"
-  abstract: "In this presentation, we will explore the impact of deep learning techniques on research at the intersection of musicology and medieval studies. We will commence by analysing the utilization of deep learning for Optical Music Recognition (OMR) within the realms of medieval musicology and computer science. Subsequently, we will investigate its applications in the analysis of medieval images, particularly in the context of musical iconography and organology. Finally, we will delve into the application of these techniques in examining the relationship between text and medieval music, with a specific focus on stylometry applied to medieval secular songs.<br/>
-  Xavier Fresquet serves as the Deputy Director at the Sorbonne Center for Artificial Intelligence (SCAI). Following the completion of his Ph.D. in musicology and digital humanities at Paris-Sorbonne, Xavier Fresquet joined UPMC, later becoming a part of Sorbonne University, in 2015. His research interests revolve around the intersections of musicology, medieval studies, and digital humanities, with a recent focus on machine learning. It encompasses the analysis of images depicting medieval performances, use of theoretical texts related to the Medieval musical world, and the study of musical notation. Xavier Fresquet actively participates in the <a href='https://musiconis.huma-num.fr/fr/'>Musiconis</a> database, the most extensive repository of medieval musical iconography. Additionally, he authors a musicological blog named <a href='https://mnemomed.hypotheses.org'>Mnemomed</a>, devoted to the exploration of the Mediterranean's medieval musical heritage."
-  slides: nothing
-  video: nothing
-
-
 - speaker: "Charlotte Duvette & Paul Kervegan"
   date: "2 April 2024"
   time: "10h-12h"
   affiliation: "INHA"
   url: "https://www.inha.fr/fr/recherche/le-departement-des-etudes-et-de-la-recherche/domaines-de-recherche/histoire-des-collections-histoire-des-institutions-artistiques-et-culturelles-economie-de-l-art/richelieu-histoire-du-quartier.html"
-  title: "Richelieu. Histoire du quartier"
-  abstract: "forthcoming"
+  title: "Richelieu. Histoire du quartier, a digital ecosystem for the analysis of the urban experience through historical sources"
+  abstract: "Newspaper illustrations, printed ads, restaurant menus, postcards, but also architectural blueprints and cadastral maps : throughout the 19th century, the urban setting was the ground for numerous representations, comments and documentation, in a context of unprecedented media production. We chose a multifaceted approach to these historical documents. A GIS documents maps evolutions in the plot plan ; OCRised registers offer a glimpse into the neighbourhood’s economic networks ; a 3D model allows us to spatialise representations of the place de la Bourse ; finally, an image-based corpus documents the urban imaginary throughout the XIXth century. By linking these heterogeneous data sources, first through an SQL database, then by developing a Web platform and custom data analysis tools, we aim to gain an understanding of the neighbourhood’s multiple layers : social, historical, economical and cultural."
   slides: nothing
   video: nothing
   room: "Centre Sciences des Données at the École Normale Supérieure"

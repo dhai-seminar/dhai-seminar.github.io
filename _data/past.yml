@@ -1,3 +1,14 @@
+- speaker: "Charlotte Duvette & Paul Kervegan"
+  date: "2 April 2024"
+  time: "10h-12h"
+  affiliation: "INHA"
+  url: "https://www.inha.fr/fr/recherche/le-departement-des-etudes-et-de-la-recherche/domaines-de-recherche/histoire-des-collections-histoire-des-institutions-artistiques-et-culturelles-economie-de-l-art/richelieu-histoire-du-quartier.html"
+  title: "Richelieu. Histoire du quartier, a digital ecosystem for the analysis of the urban experience through historical sources"
+  abstract: "Newspaper illustrations, printed ads, restaurant menus, postcards, but also architectural blueprints and cadastral maps : throughout the 19th century, the urban setting was the ground for numerous representations, comments and documentation, in a context of unprecedented media production. We chose a multifaceted approach to these historical documents. A GIS documents maps evolutions in the plot plan ; OCRised registers offer a glimpse into the neighbourhood’s economic networks ; a 3D model allows us to spatialise representations of the place de la Bourse ; finally, an image-based corpus documents the urban imaginary throughout the XIXth century. By linking these heterogeneous data sources, first through an SQL database, then by developing a Web platform and custom data analysis tools, we aim to gain an understanding of the neighbourhood’s multiple layers : social, historical, economical and cultural."
+  slides: nothing
+  video: nothing
+  room: "Centre Sciences des Données at the École Normale Supérieure"
+  
 - speaker: "Xavier Fresquet"
   date: "6 February 2024"
   time: "10h-12h"

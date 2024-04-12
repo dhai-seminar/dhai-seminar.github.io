@@ -1,10 +1,10 @@
-- speaker: "Thibault Clérice & Malametenia Vlachou-Efstathiou"
+- speaker: "Thibault Clérice (INRIA) & Malametenia Vlachou-Efstathiou (IRHT/IMAGINE-ENPC)"
   date: "14 May 2024"
   time: "10h-12h"
   affiliation: ""
-  url: ""
-  title: "CREMMA Medii Aevi, Literary manuscript text recognition in Latin"
-  abstract: "forthcoming"
+  url: "https://catmus-guidelines.github.io"
+  title: "The CATMuS initiative: building large and diverse corpora for handwritten text recognition"
+  abstract: "The CATMuS (Consistent Approaches to Transcribing ManuScripts) initiative is a set of datasets and guidelines meant for training large and generalizing HTR models. In this presentation, we set out to present the issues behind handwritten text recognition of historical documents over a long time and many languages, the choices we faced and how we addressed them. We'll present the resulting dataset for the Middle Ages, the first one to be published out of the CATMuS Initiative, and will present initial results with some models."
   slides: nothing
   video: nothing
   room: "Centre Sciences des Données at the École Normale Supérieure"

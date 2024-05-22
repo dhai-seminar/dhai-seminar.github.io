@@ -23,7 +23,8 @@ The ambition of this seminar is to be one of the places where this coupling is s
 Next seminars
 ===========================
 
-The seminar will meet at 10h at the Centre Sciences des Données at the École Normale Supérieure unless otherwise specified.
+The dates for the 2024-2025 academic year will be announced in due course.
+The seminar generally meets the first Tuesday of the month at 10h at the Centre Sciences des Données, École Normale Supérieure, unless otherwise specified.
 
 {% for oneitem in site.data.next %}
 <p>

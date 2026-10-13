@@ -31,6 +31,9 @@ a img:hover,
 a img:focus {
   cursor: zoom-in;
 }
+li a {
+  text-decoration: underline;
+}
 blockquote {
   color: #808080;
   font-style: italic;

@@ -1,8 +1,10 @@
 ---
 layout: page
 title: "Coming to the seminar"
-description: "Visit ENS"
+description: "Visit BnF"
 header-img: "img/ens-view.jpg"
 ---
 
-Most meetings of the seminar take place in the <a href="https://csd.ens.psl.eu">Center for Data Sciences (Centre Sciences des Données)</a> at the École Normale Supérieure, 45 rue d’Ulm, 75005 Paris - 3rd floor between stairways B & C.
+The seminar takes place at the <a href="https://www.bnf.fr/">Bibliothèque nationale de France (BnF)</a>, Site François-Mitterrand - Salle 70.  
+
+Accès : Entrée Est, face à la rue Emile Durkheim 75013 Paris.

@@ -19,3 +19,13 @@
   slides: nothing
   video: nothing
   room: "Salle 70, Bibliothèque nationale de France, Site François-Mitterrand"
+- speaker: "Noa Garcia"
+  date: "15 December 2026"
+  time: "10am-12pm"
+  affiliation: "Institute for Advanced Co-Creation Studies and D3 Center, The University of Osaka"
+  url: "https://www.noagarciad.com"
+  title: "Style and Gender in the Generated Output: From Descriptions to Images"
+  abstract: "Artistic style is more than a visual appearance. It emerges from specific socio-historical contexts and can encode the social hierarchies, identities, and gender norms of its time. Yet in computer vision research, style is often treated as a content-independent property, something that can be separated from semantics and defined through color, texture, or brushstroke. In this talk, I will explore what happens when we consider the social and historical dimensions of style in the generated image. I will begin by discussing the longstanding distinction between content and style in computational approaches to art. I will then turn to gender, asking how gendered representations are shaped not only by what images depict, but also by how they depict it. Building on top of this, the talk will explore the relationship between gender and artistic style across both historical artworks and contemporary generative images, showing how generative models inherit and intensify gendered patterns from art history when prompted to generate images in specific artistic styles."
+  slides: nothing
+  video: nothing
+  room: "Salle 70, Bibliothèque nationale de France, Site François-Mitterrand"

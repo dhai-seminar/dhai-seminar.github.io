@@ -29,3 +29,13 @@
   slides: nothing
   video: nothing
   room: "Salle 70, Bibliothèque nationale de France, Site François-Mitterrand"
+- speaker: "Rowan Hall Maudslay"
+  date: "16 February 2027"
+  time: "10am-12pm"
+  affiliation: "CultureLab/Université PSL"
+  url: "https://maudslay.eu"
+  title: "Decoding Tupaia’s Chart to Uncover an Pre-Contact Polynesian Voyaging Network"
+  abstract: "A major debate in Polynesian history and anthropology concerns the maritime practice of Polynesian islanders prior to European contact. Central to this debate is Tupaia's chart, a map produced in 1769 by an expert Ra'iātean navigator. Dubbed “the Rosetta Stone of Polynesian navigation”, it uses a non-standard logic which has puzzled scholars for 250 years. In this talk, I will describe a project in which computational methods are used to decipher Tupaia's chart, revealing that it encodes a dense sailing network spanning 6.5 million square kilometres. This work shows that Polynesians possessed detailed knowledge of islands thousands of kilometres apart, three centuries after long-distance voyaging is thought to have ceased."
+  slides: nothing
+  video: nothing
+  room: "Salle 70, Bibliothèque nationale de France, Site François-Mitterrand"
